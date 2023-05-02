@@ -1,0 +1,48 @@
+project:
+  type: website
+
+website:
+  site-url: https://lewisajones.com
+  title: "Lewis A. Jones"
+  image: "icons/favicon.png"
+  favicon: "icons/favicon.png"
+  open-graph: true
+  twitter-card: true
+  navbar:
+    title: '>$ cd /home/&nbsp;&nbsp;&nbsp;&nbsp;<span class="blink-box"></span>'
+    foreground: "#00bc8c"
+    background: "black"
+    search: true
+    right:
+      - text: "ABOUT"
+        file: about.qmd
+      - text: "EXPERIENCE"
+        file: experience.qmd
+      - text: "PUBLICATIONS"
+        file: publications.qmd
+      - text: "SOFTWARE"
+        file: software.qmd
+      - text: "GALLERY"
+        file: gallery.qmd
+      - icon: twitter
+        href: "https://twitter.com/LewisAlanJones"
+      - icon: github
+        href: "https://github.com/LewisAJones"
+      - icon: envelope
+        href: "mailto:LewisA.Jones@outlook.com"
+      - icon: mortarboard
+        href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+
+editor: visual
+
