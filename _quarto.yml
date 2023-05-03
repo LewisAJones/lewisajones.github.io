@@ -3,12 +3,25 @@ project:
   output-dir: docs
 
 website:
-  site-url: https://lewisajones.com
   title: "Lewis A. Jones"
-  image: "icons/favicon.png"
+  site-url: https://lewisajones.com
+  description: "Personal website"
+  image: "gallery/Arolla.jpg"
   favicon: "icons/favicon.png"
-  open-graph: true
-  twitter-card: true
+  open-graph: 
+    image: "gallery/Arolla.jpg"
+    image-width: 500
+    image-height: 500
+    locale: en-GB
+  twitter-card: 
+    title: Lewis A. Jones
+    description: The personal website of Lewis A. Jones
+    image: "gallery/Arolla.jpg"
+    image-width: 500
+    image-height: 500
+    card-style: summary
+    creator: "@LewisAlanJones"
+    site: "@LewisAlanJones"
   navbar:
     title: '> LEWIS A. JONES&nbsp;&nbsp;<span class="blink-box"></span>'
     foreground: "#00bc8c"
@@ -43,7 +56,6 @@ format:
     toc: true
     smooth-scroll: true
     link-external-newwindow: true
-    link-external-icon: false
 
 editor: source
 

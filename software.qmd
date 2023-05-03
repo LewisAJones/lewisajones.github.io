@@ -1,13 +1,15 @@
 ---
-title: "R Packages"
+title: "R PACKAGES"
 editor: source
+toc: true
 ---
 
 
 ### [palaeoverse](http://palaeoverse.palaeoverse.org)
-[![DOI](https://img.shields.io/badge/DOI-10.31223%2FX5Z94Q-blue)](https://doi.org/10.31223/X5Z94Q) 
-[![CRAN status](https://www.r-pkg.org/badges/version/palaeoverse)](https://CRAN.R-project.org/package=palaeoverse) 
-[![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/palaeoverse)](https://cran.r-project.org/package=palaeoverse)
+
+<a href="https://doi.org/10.31223/X5Z94Q"><img src="https://img.shields.io/badge/DOI-10.31223%2FX5Z94Q-blue"></a>
+<a href="https://CRAN.R-project.org/package=palaeoverse"><img src="https://www.r-pkg.org/badges/version/palaeoverse"></a>
+<a href="https://cran.r-project.org/package=palaeoverse"><img src="https://cranlogs.r-pkg.org/badges/grand-total/palaeoverse"></a>
 
 ::: {.grid}
 
@@ -27,8 +29,8 @@ The palaeoverse R package is a community-driven toolkit to support the preparati
 :::
 
 ### [rphylopic](http://rphylopic.palaeoverse.org)
-[![CRAN status](https://www.r-pkg.org/badges/version/rphylopic)](https://CRAN.R-project.org/package=rphylopic)
-[![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/rphylopic)](https://cran.r-project.org/package=rphylopic)
+<a href="https://CRAN.R-project.org/package=rphylopic"><img src="https://www.r-pkg.org/badges/version/rphylopic"></a>
+<a href="https://CRAN.R-project.org/package=rphylopic"><img src="https://cranlogs.r-pkg.org/badges/grand-total/rphylopic"></a>
 
 ::: {.grid}
 
@@ -51,10 +53,9 @@ from the <span style="color: #ed4d7e"><a href="https://palaeoverse.org/" target=
 
 ### [sepkoski](http://sepkoski.palaeoverse.org)
 
-[![DOI](https://zenodo.org/badge/564230284.svg)](https://zenodo.org/badge/latestdoi/564230284)
-[![CRAN status](https://www.r-pkg.org/badges/version/sepkoski)](https://CRAN.R-project.org/package=sepkoski)
-[![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/sepkoski)](https://cran.r-project.org/package=sepkoski)
-
+<a href="https://zenodo.org/badge/latestdoi/564230284"><img src="https://zenodo.org/badge/564230284.svg"></a>
+<a href="https://CRAN.R-project.org/package=sepkoski"><img src="https://www.r-pkg.org/badges/version/sepkoski"></a>
+<a href="https://cran.r-project.org/package=sepkoski"><img src="https://cranlogs.r-pkg.org/badges/grand-total/sepkoski"></a>
 
 ::: {.grid}
 
