@@ -1,0 +1,4 @@
+- source: project
+   netlify:
+     - id: a32e63a1-7f0e-445c-8d51-e28cb3c71240
+       url: 'https://delicate-jelly-f1afc5.netlify.app'
