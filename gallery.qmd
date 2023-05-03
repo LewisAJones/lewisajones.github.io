@@ -1,9 +1,38 @@
 ---
-title: "Gallery"
+title: "GALLERY"
+source: editor
 ---
 
-About this site
+![White Sands, USA](gallery/White_Sands.jpg){width=100%}
 
-```{r}
-1 + 1
-```
+![Wolf Creek, USA.](gallery/Overpass.jpg){width=100%}  
+
+![Arolla, Switzerland.](gallery/Arolla.jpg){width=100%} 
+
+![Allgau](gallery/Allgau.jpg){width=100%}Allgäu, Germany.  
+
+![Richmond Park, UK.](gallery/Deer.jpg){width=100%}  
+
+::: {.grid}
+
+::: {.g-col-6}
+
+![Hull, UK.](gallery/Portrait1.jpg)
+
+:::
+
+::: {.g-col-6}
+
+![Hull, UK.](gallery/Disturbia.jpg)
+
+:::
+
+:::
+
+![Hull, UK.](gallery/Steel_Wool.jpg){width=100%}
+
+![Street food market, Harbin, China.](gallery/China_2.jpg){width=100%}
+
+![Shenyang, China.](gallery/China_1.jpg){width=100%}Shenyang, China.  
+
+![Harbin, China.](gallery/China_3.jpg){width=100%}
