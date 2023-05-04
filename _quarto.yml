@@ -5,7 +5,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Lewis A. Jones"
+  title: "LEWIS A. JONES"
   site-url: https://lewisajones.com
   description: "Personal website"
   image: "gallery/Arolla.jpg"
@@ -36,8 +36,8 @@ website:
         file: experience.qmd
       - text: "PUBLICATIONS"
         file: publications.qmd
-      - text: "SOFTWARE"
-        file: software.qmd
+      - text: "R PACKAGES"
+        file: packages.qmd
       - text: "GALLERY"
         file: gallery.qmd
       - icon: twitter
