@@ -155,7 +155,6 @@ div.tippy-content a:hover {
 // navbar
 .navbar-title {
   font-size: $font-size-base * 1.5;
-  font-family: monospace;
 }
 
 // the line in the navbar logo
@@ -257,7 +256,6 @@ the color that matches the card
 
 // header styles (more in ek-styles.css)
 #quarto-header {
-  text-transform: uppercase;
   //font-family: "LEMONMILKPro-Regular", Jost, Helvetica, sans-serif;
   font-family: $headings-font-family;
 }
@@ -320,31 +318,18 @@ iframe.slide-deck {
 }
 
 // for cards on home page
-#card-first-color {
+#card-color {
   background-color: $body-bg;
   border: 4px solid $primary;
   border-radius: 5px; 
 }
-
-#card-second-color {
-  background-color: $body-bg;
-  border: 4px solid $second-color;
-  border-radius: 5px; 
-}
-
-#card-third-color {
-  background-color: $body-bg;
-  border: 4px solid $third-color;
-  border-radius: 5px; 
-}
-
 
 .card-link {
     background-color: $primary;
     color: $body-bg;
     border: 4px solid $primary;
     border-color: $primary;
-    padding: 5px .5rem 5px .5rem !important;
+    padding: 1px .5rem 1px .5rem !important;
     margin: 0;
     border-radius: 5px; 
     display: inline-block;

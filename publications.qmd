@@ -1,5 +1,5 @@
 ---
-title: "PUBLICATIONS"
+title: "Publications"
 editor: source
 toc: false
 ---

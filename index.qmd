@@ -3,27 +3,49 @@ toc: false
 editor: source
 ---
 
-<br>
+# Lewis A. Jones
+**Postdoctoral Research Fellow**  
+Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo  
 
-# **Lewis A. Jones**
+::: {.grid}
 
-\[Palaeobiology, Macroecology, R Programming\]
+::: {.g-col-6}
 
-::: typing-demo
-Hi there, welcome!
+![](images/lewis.jpg){width=100%}
+
 :::
 
-<br>
+::: {.g-col-3}
 
-::: {#card-first-color .card .h-100}
+::: {style="margin-top: auto;"}
+<a href="about.qmd" class="card-link heading-font">About</a>
+
+<a href="experience.qmd" class="card-link heading-font">Experience</a>
+
+<a href="publications.qmd" class="card-link heading-font">Publications</a>
+
+<a href="packages.qmd" class="card-link heading-font">R Packages</a>
+
+<a href="gallery.qmd" class="card-link heading-font">Gallery</a>
+
+:::
+
+:::
+
+:::
+
+::: {#card-color .card .h-100}
+
 ::: {.card-body .d-flex .flex-column}
-<p class="card-text">
+
+<p>
 **What's new?**
-The article introducing our new [palaeoverse R package](http://palaeoverse.palaeoverse.org)--a community-driven toolkit for streamlining palaeobiological analyses and improving code accessibility and reproducibility--is now published in *Methods in Ecology and Evolution*.
-</p>
+The article introducing our new [palaeoverse R package](http://palaeoverse.palaeoverse.org)--a community-driven toolkit for streamlining palaeobiological analyses and improving code accessibility and reproducibility--is now published in *Methods in Ecology and Evolution*.</p>
 
 ::: {style="margin-top: auto;"}
 <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099" class="card-link heading-font">ACCESS</a>
 :::
+
 :::
+
 :::

@@ -5,7 +5,7 @@ execute:
   freeze: auto
 
 website:
-  title: "LEWIS A. JONES"
+  title: "Lewis A. Jones"
   site-url: https://lewisajones.com
   description: "Personal website"
   image: "gallery/Arolla.jpg"
@@ -25,20 +25,20 @@ website:
     creator: "@LewisAlanJones"
     site: "@LewisAlanJones"
   navbar:
-    title: '> LEWIS A. JONES&nbsp;&nbsp;<span class="blink-box"></span>'
+    title: '> Lewis A. Jones&nbsp;&nbsp;<span class="blink-box"></span>'
     foreground: "#00bc8c"
     background: "black"
     search: true
     right:
-      - text: "ABOUT"
+      - text: "About"
         file: about.qmd
-      - text: "EXPERIENCE"
+      - text: "Experience"
         file: experience.qmd
-      - text: "PUBLICATIONS"
+      - text: "Publications"
         file: publications.qmd
-      - text: "R PACKAGES"
+      - text: "R Packages"
         file: packages.qmd
-      - text: "GALLERY"
+      - text: "Gallery"
         file: gallery.qmd
       - icon: twitter
         href: "https://twitter.com/LewisAlanJones"

@@ -1,5 +1,5 @@
 ---
-title: "GALLERY"
+title: "Gallery"
 editor: source
 toc: false
 ---
