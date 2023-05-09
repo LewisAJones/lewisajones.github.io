@@ -54,7 +54,7 @@ h4 {
   height: 25px;
   margin: auto;
   margin-top: -32px;
-  margin-left: 200px;
+  margin-left: 95%;
   animation: blinker 1.25s linear infinite;
 }
 

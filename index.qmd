@@ -15,20 +15,17 @@ Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo
 
 :::
 
-::: {.g-col-3}
+::: {.g-col-6}
 
-::: {style="margin-top: auto;"}
-<a href="about.qmd" class="card-link heading-font">About</a>
+<a href="about.qmd" class="card-link heading-font" style="width:100%">About</a>
 
-<a href="experience.qmd" class="card-link heading-font">Experience</a>
+<a href="experience.qmd" class="card-link heading-font" style="width:100%">Experience</a>
 
-<a href="publications.qmd" class="card-link heading-font">Publications</a>
+<a href="publications.qmd" class="card-link heading-font" style="width:100%">Publications</a>
 
-<a href="packages.qmd" class="card-link heading-font">R Packages</a>
+<a href="packages.qmd" class="card-link heading-font" style="width:100%">R Packages</a>
 
-<a href="gallery.qmd" class="card-link heading-font">Gallery</a>
-
-:::
+<a href="gallery.qmd" class="card-link heading-font" style="width:100%">Gallery</a>
 
 :::
 
