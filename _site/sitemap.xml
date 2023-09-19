@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lewisajones.com/index.html</loc>
-    <lastmod>2023-05-09T06:58:04.223Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lewisajones.com/gallery.html</loc>
-    <lastmod>2023-05-09T06:58:04.674Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lewisajones.com/experience.html</loc>
-    <lastmod>2023-05-09T06:58:05.122Z</lastmod>
+    <loc>https://lewisajones.com/packages.html</loc>
+    <lastmod>2023-09-19T13:10:56.103Z</lastmod>
   </url>
   <url>
     <loc>https://lewisajones.com/publications.html</loc>
-    <lastmod>2023-05-09T06:58:05.441Z</lastmod>
+    <lastmod>2023-09-19T13:10:55.468Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lewisajones.com/gallery.html</loc>
+    <lastmod>2023-09-19T13:10:54.562Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lewisajones.com/index.html</loc>
+    <lastmod>2023-09-19T13:10:54.207Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lewisajones.com/experience.html</loc>
+    <lastmod>2023-09-19T13:10:55.106Z</lastmod>
   </url>
   <url>
     <loc>https://lewisajones.com/about.html</loc>
-    <lastmod>2023-05-09T06:58:05.757Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lewisajones.com/packages.html</loc>
-    <lastmod>2023-05-09T06:58:06.138Z</lastmod>
+    <lastmod>2023-09-19T13:10:55.772Z</lastmod>
   </url>
 </urlset>

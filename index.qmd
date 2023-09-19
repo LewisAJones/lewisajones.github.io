@@ -35,13 +35,29 @@ Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo
 
 ::: {.card-body .d-flex .flex-column}
 
+:::: {.columns}
+
+::: {.column width="75%"}
 <p>
 **What's new?**
 The article introducing our new [palaeoverse R package](http://palaeoverse.palaeoverse.org)--a community-driven toolkit for streamlining palaeobiological analyses and improving code accessibility and reproducibility--is now published in *Methods in Ecology and Evolution*.</p>
 
 ::: {style="margin-top: auto;"}
+<br>
 <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099" class="card-link heading-font">ACCESS</a>
 :::
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
+![](images/MEE-cover.jpg)
+:::
+
+::::
 
 :::
 
