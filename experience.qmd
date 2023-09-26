@@ -16,8 +16,6 @@ Imperial College London, London, UK\
 Research advisors: Dr Philip D. Mannion & Prof. Peter A. Allison\
 Thesis title: On the detectability of the latitudinal biodiversity gradient in deep time
 
-[@jones2022]
-
 **MPhysGeog in Physical Geography** (2011--2015)\
 University of Hull, Hull, UK\
 Research advisor: Prof. David P.G. Bond\
@@ -49,7 +47,7 @@ Republic Ltd, Grimsby and Hull, UK
 **Baker** (2008--2010)\
 Muffin Break, Grimsby, UK
 
-### [@jones2022]Research focus
+### Research focus
 
 -   Macroecology and biodiversity
 -   Fossil record bias
