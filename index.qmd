@@ -37,24 +37,27 @@ Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo
 
 :::: {.columns}
 
-::: {.column width="75%"}
+::: {.column width="100%"}
 <p>
-**What's new?**
-The article introducing our new [palaeoverse R package](http://palaeoverse.palaeoverse.org)--a community-driven toolkit for streamlining palaeobiological analyses and improving code accessibility and reproducibility--is now published in *Methods in Ecology and Evolution*.</p>
+**What's new?**  
+How can we reconstruct past climates from patchy and spatially biased records? We address this question in our new paper published in *Climate of the Past*. 🌍🌡️❓
 
 ::: {style="margin-top: auto;"}
-<br>
-<a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099" class="card-link heading-font">ACCESS</a>
+<a href="https://doi.org/10.5194/cp-20-349-2024" class="card-link heading-font">ACCESS</a>
 :::
 
+Does Global Plate Model choice matter? We address this question in our new paper published in *Methods in Ecology and Evolution*. 🌍
+
+::: {style="margin-top: auto;"}
+<a href="https://doi.org/10.1111/2041-210X.14204" class="card-link heading-font">ACCESS</a>
 :::
 
-::: {.column width="5%"}
-<!-- empty column to create gap -->
+The article introducing our new [palaeoverse R package](http://palaeoverse.palaeoverse.org)--a community-driven toolkit for streamlining palaeobiological analyses and improving code accessibility and reproducibility--is now published in *Methods in Ecology and Evolution*. 🪸🦕</p> 
+
+::: {style="margin-top: auto;"}
+<a href="https://doi.org/10.1111/2041-210X.14099" class="card-link heading-font">ACCESS</a>
 :::
 
-::: {.column width="20%"}
-![](images/MEE-cover.jpg)
 :::
 
 ::::
