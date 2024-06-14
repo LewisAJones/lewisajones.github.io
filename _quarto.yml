@@ -2,7 +2,7 @@ project:
   type: website
   
 execute:
-  freeze: auto
+  freeze: false
 
 website:
   title: "Lewis A. Jones"
@@ -10,6 +10,7 @@ website:
   description: "Personal website"
   image: "gallery/Arolla.jpg"
   favicon: "icons/favicon.png"
+  search: false
   open-graph: 
     image: "gallery/Arolla.jpg"
     image-width: 500
@@ -25,11 +26,12 @@ website:
     creator: "@LewisAlanJones"
     site: "@LewisAlanJones"
   navbar:
-    title: '> Lewis A. Jones&nbsp;&nbsp;<span class="blink-box"></span>'
+    title: false
+    logo: images/logo.png
+    background: "#F6F5F3"
+    logo-alt: "Dr Lewis A. Jones"
     foreground: "#00bc8c"
-    background: "black"
-    search: true
-    right:
+    left:
       - text: "About"
         file: about.qmd
       - text: "Experience"
@@ -40,6 +42,7 @@ website:
         file: packages.qmd
       - text: "Gallery"
         file: gallery.qmd
+    right:    
       - icon: twitter
         href: "https://twitter.com/LewisAlanJones"
       - icon: github
@@ -53,7 +56,6 @@ format:
   html:
     theme:
       light: themes/light.scss
-      dark: themes/dark.scss
     css: styles.css
     toc: true
     smooth-scroll: true

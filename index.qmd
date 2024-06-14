@@ -3,6 +3,7 @@ toc: false
 editor: source
 ---
 
+<div class="fish"></div>
 # Lewis A. Jones
 **Postdoctoral Research Fellow**  
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo  
@@ -11,7 +12,7 @@ Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo
 
 ::: {.g-col-6}
 
-![](images/lewis.jpg){width=100%}
+![](images/lewis.jpg)
 
 :::
 

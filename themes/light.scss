@@ -14,7 +14,7 @@ $gray-900: #212129 !default;
 $black:    #000 !default;
 
 //  my colours
-$col1: #00bc8c;
+$col1: #01676C;
 $col2: #ed4d7e;
 
 $primary:       $col1 !default;
@@ -41,8 +41,8 @@ $h6-font-size:     $font-size-base !default;
 // colour tweaks to theme
 $body-bg: $light;
 $body-color: $dark;
-$navbar-bg: $body-bg;
-$navbar-fg: $body-color;
+$navbar-bg: $gray-200;
+$navbar-fg: black;
 $code-bg: $light;
 $code-color: $second-color;
 $card-bg: $body-bg;
