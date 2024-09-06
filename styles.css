@@ -54,6 +54,7 @@ h1 {
   margin-right: 0;
   font-weight: bold;
   text-align: left;
+  color: #212129;
 }
 
 h2 {
@@ -64,6 +65,7 @@ h2 {
   margin-right: 0;
   font-weight: bold;
   text-align: left;
+  color: #212129;
 }
 
 h3 { 
@@ -74,6 +76,7 @@ h3 {
   margin-left: 0;
   margin-right: 0;
   font-weight: bold;
+  color: #212129;
 }
 
 h4 { 
@@ -84,7 +87,7 @@ h4 {
   margin-left: 0;
   margin-right: 0;
   text-align: center;
-  color: black;
+  color: #212129;
 }
 
 /* Landing page */
