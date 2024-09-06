@@ -1,6 +1,5 @@
-// This theme is based on Ella Kaye's website (https://ellakaye.co.uk)
-
 // warmer grays (hue 240)
+$transparent:    #FFFFFF !default;
 $white:    #fff !default;
 $gray-100: #F8F8FA !default;
 $gray-200: #E9E9EF !default;
@@ -14,8 +13,8 @@ $gray-900: #212129 !default;
 $black:    #000 !default;
 
 //  my colours
-$col1: #01676C;
-$col2: #ed4d7e;
+$col1: #4b2e83;
+$col2: #f6f5f3;
 
 $primary:       $col1 !default;
 $secondary:     $gray-500 !default;
@@ -39,63 +38,10 @@ $h5-font-size:     $font-size-base * 1.25 !default;
 $h6-font-size:     $font-size-base !default;
 
 // colour tweaks to theme
-$body-bg: $light;
+$body-bg: $white;
 $body-color: $dark;
-$navbar-bg: $gray-200;
-$navbar-fg: black;
-$code-bg: $light;
-$code-color: $second-color;
-$card-bg: $body-bg;
-$card-border-color: $gray-300;
-
-// font size and OpenType tweaks - adjust to make Fira Mono same size as Lemon Milk Light
-
-/*
-h1, h2, h3, h4, h5 {
-  font-weight: 300;
-}
-*/
-
-$code-font-size: $font-size-base;
-
-code {
-  font-feature-settings: 'dlig' 0, 'liga' 0, 'calt' 1, 'zero' 1, 'ss02' 0;
-}
-
-code span.co {
-  font-family: "MonoLisa-RegularItalic", "Fira Mono", monospace;
-}
-
-h1 code {
-  font-size: $h1-font-size;
-}
-
-h2 code {
-  font-size: $h2-font-size;
-}
-
-h3 code {
-  font-size: $h3-font-size;
-}
-
-h4 code {
-  font-size: $h4-font-size;
-}
-
-h5 code {
-  font-size: $h5-font-size;
-}
-
-h6 code {
-  font-size: $h6-font-size;
-}
-
-// callouts
-$callout-color-note: $col1;
-$callout-color-tip: $col1;
-$callout-color-caution: $col1;
-$callout-color-warning: $col1;
-$callout-color-important: $col1;
+$navbar-bg: $col2;
+$navbar-fg: $gray-800;
 
 /*-- scss:rules --*/
 
@@ -112,29 +58,16 @@ $callout-color-important: $col1;
   color: $third-color;
 }
 
-// code
-pre.sourceCode {
-  border-radius: 0;
-  border-left-color: $gray-300;
-}
-
-// light vs dark modes
-.light-mode {
-  display: block; 
-}
-.dark-mode {
-  display: none;
-}
-
 // links
 a {
   color: $col1;
   text-decoration: none; 
+  font-weight: 600;
   //text-underline-offset: .1rem;
 }
 
 a:hover {
-  color: $primary;
+  color: $body-color;
   text-decoration-color: $primary;
 }
 
@@ -153,7 +86,11 @@ div.tippy-content a:hover {
 
 // navbar
 .navbar-title {
+  padding-left: 10px;
+  color: $col1;
   font-size: $font-size-base * 1.5;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
 }
 
 // the line in the navbar logo
@@ -167,16 +104,6 @@ div.tippy-content a:hover {
   margin-top: -6px;
   margin-bottom: -6px;
 }
-
-/* keep text the body colour when active
-this was a change in Quarto 1.2 - now defaults to a darker shade of $primary
-would be fine, except that I want to target the different list items to keep 
-the color that matches the card
-
-.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active {
-    color: $body-color;
-}
-*/
 
 // hover on navbar
 .navbar-expand-lg .navbar-nav .nav-link:hover {
@@ -231,7 +158,7 @@ the color that matches the card
     background-color: $primary;
     width: 0%;
     content: "";
-    height: 4px;
+    height: 6px;
     transition: all 0.3s;
   }
   
@@ -256,17 +183,6 @@ the color that matches the card
   // font-family: "ABCSocialExtendedEdu-Bold", Jost, Helvetica, sans-serif;
   font-family: $headings-font-family;
 }
-
-/*
-h1, h2, h3, h4, h5 {
-  text-transform: uppercase;
-}
-*/
-/*
-h1 {
-  text-transform: uppercase;
-}
-*/
 
 .heading-font {
   font-family: $headings-font-family;
@@ -319,54 +235,3 @@ iframe.slide-deck {
     border-color: $primary;
     text-decoration: none;
 }
-
-// for cards on home page
-#card-color {
-  background-color: $body-bg;
-  border: 4px solid $primary;
-  border-radius: 5px; 
-}
-
-.card-link {
-    background-color: $primary;
-    color: $body-bg;
-    border: 4px solid $primary;
-    border-color: $primary;
-    padding: 1px .5rem 1px .5rem !important;
-    margin: 0;
-    border-radius: 5px; 
-    display: inline-block;
-    text-decoration: none;  
-    font-size: $h5-font-size;
-}
-
-.card-link:hover {
-  background-color: $body-bg;
-  color: $primary;
-}
-
-.second-color-link{
-    background-color: $second-color;
-    border-color: $second-color;
-    color: $body-bg;
-}
-
-.second-color-link:hover {
-  color: $second-color;
-  border-color: $second-color;
-}
-
-.third-color-link{
-    background-color: $third-color;
-    border-color: $third-color;
-    color: $body-bg;
-}
-
-.third-color-link:hover {
-  color: $third-color;
-  border-color: $third-color;
-}
-
-
-
-

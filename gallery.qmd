@@ -1,8 +1,11 @@
 ---
-title: "Gallery"
 editor: source
 toc: false
 ---
+
+# Gallery
+
+<br>
 
 ![White Sands, USA](gallery/White_Sands.jpg){width="100%"}
 

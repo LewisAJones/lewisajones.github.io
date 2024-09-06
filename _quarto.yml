@@ -26,14 +26,13 @@ website:
     creator: "@LewisAlanJones"
     site: "@LewisAlanJones"
   navbar:
-    title: false
-    logo: images/logo.png
-    background: "#F6F5F3"
+    pinned: true
+    title: "Lewis A. Jones"
     logo-alt: "Dr Lewis A. Jones"
-    foreground: "#00bc8c"
-    left:
+    background: transparent
+    right:    
       - text: "About"
-        file: about.qmd
+        file: index.qmd
       - text: "Experience"
         file: experience.qmd
       - text: "Publications"
@@ -42,7 +41,6 @@ website:
         file: packages.qmd
       - text: "Gallery"
         file: gallery.qmd
-    right:    
       - icon: twitter
         href: "https://twitter.com/LewisAlanJones"
       - icon: github
@@ -51,7 +49,21 @@ website:
         href: "mailto:LewisA.Jones@outlook.com"
       - icon: mortarboard-fill
         href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
-
+  page-footer: 
+    background: "#f6f5f3"
+    left: |
+      © Copyright 2024 Lewis A. Jones
+    center: |
+      [![](/images/logo-palaeoverse.png){fig-alt="Palaeoverse" width=30px}](https://palaeoverse.org)
+    right: 
+      - icon: twitter
+        href: "https://twitter.com/LewisAlanJones"
+      - icon: github
+        href: "https://github.com/LewisAJones"
+      - icon: envelope-fill
+        href: "mailto:LewisA.Jones@outlook.com"
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
 format:
   html:
     theme:

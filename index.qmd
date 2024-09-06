@@ -1,67 +1,57 @@
 ---
+title: Lewis A. Jones
+subtitle: 
+  <large> <strong> Palaeobiologist & R enthusiast </strong> </large> <br> 
+  <small> NERC Independent Research Fellow <br>
+  Department of Earth Sciences, Univeristy College London </small>
+image: /images/rainy-day.gif
+about:
+    id: hero-heading
+    template: solana
+    links:
+      - icon: twitter
+        href: "https://twitter.com/LewisAlanJones"
+      - icon: github
+        href: "https://github.com/LewisAJones"
+      - icon: envelope-fill
+        href: "mailto:lewis.jones@ucl.ac.uk"
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
 toc: false
 editor: source
 ---
 
-<div class="fish"></div>
-# Lewis A. Jones
-**Postdoctoral Research Fellow**  
-Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo  
+<body class="bg-img"></body>
 
-::: {.grid}
-
-::: {.g-col-6}
-
-![](images/lewis.jpg)
-
+:::{#hero-heading}
 :::
 
-::: {.g-col-6}
+<p class="text-col2">Macroecology & Biodiversity | Corals & Reef Ecosystems | Palaeoclimate | Fossil Record Bias | R </p>
 
-<a href="about.qmd" class="card-link heading-font" style="width:100%">About</a>
 
-<a href="experience.qmd" class="card-link heading-font" style="width:100%">Experience</a>
+::: {.grid .transparent-box}
 
-<a href="publications.qmd" class="card-link heading-font" style="width:100%">Publications</a>
+::: {.g-col-12}
 
-<a href="packages.qmd" class="card-link heading-font" style="width:100%">R Packages</a>
+I am a **Computational Palaeobiologist** examining the macroecological and macroevolutionary history of reef-building organisms through the integration of interdisciplinary tools and diverse sources of information, such as ecological modelling, Earth System modelling, and fossil and extant occurrence datasets. An additional theme of my research is evaluating the influence of data incompleteness on our perceptions of the geological past, such as biodiversity trends. I also work on developing open-source software tools and resources for the palaeobiology community with the aim of improving research reproducibility in the field.
 
-<a href="gallery.qmd" class="card-link heading-font" style="width:100%">Gallery</a>
+I am currently a NERC Independent Research Fellow at [Univeristy College London](https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-lewis-jones), where I am focusing on reconstructing the evolutionary history of Cenozoic marine biodiversity hotspots and testing their long-term drivers.
 
-:::
+### **What's new?**  
 
-:::
+#### 2024
 
-::: {#card-color .card .h-100}
+- I've moved back to London! I am now a Research Fellow at University College London after securing a NERC Independent Research Fellowship to work on the Cenozoic marine biodiversity hotspots. 🪸
 
-::: {.card-body .d-flex .flex-column}
+- Do you want to easily generate standardised palaeocoordinates for your data across many Global Plate Models? We provide a Phanerozoic gridded dataset for palaeogeographic reconstructions in our recent article published in *Scientific Data* 🌐 <a href="https://doi.org/10.1038/s41597-024-03468-w" class="button">More...</a>
 
-:::: {.columns}
+ - How can we reconstruct past climates from patchy and spatially biased records? We address this question in our new paper published in *Climate of the Past*. 🌍🌡️❓ <a href="https://doi.org/10.5194/cp-20-349-2024" class="button">More...</a>
+ 
+#### 2023
 
-::: {.column width="100%"}
-<p>
-**What's new?**  
-How can we reconstruct past climates from patchy and spatially biased records? We address this question in our new paper published in *Climate of the Past*. 🌍🌡️❓
+- Does Global Plate Model choice matter? We address this question in our new paper published in *Methods in Ecology and Evolution*. 🌍 <a href="https://doi.org/10.1111/2041-210X.14204" class="button">More...</a>
 
-::: {style="margin-top: auto;"}
-<a href="https://doi.org/10.5194/cp-20-349-2024" class="card-link heading-font">ACCESS</a>
-:::
-
-Does Global Plate Model choice matter? We address this question in our new paper published in *Methods in Ecology and Evolution*. 🌍
-
-::: {style="margin-top: auto;"}
-<a href="https://doi.org/10.1111/2041-210X.14204" class="card-link heading-font">ACCESS</a>
-:::
-
-The article introducing our new [palaeoverse R package](http://palaeoverse.palaeoverse.org)--a community-driven toolkit for streamlining palaeobiological analyses and improving code accessibility and reproducibility--is now published in *Methods in Ecology and Evolution*. 🪸🦕</p> 
-
-::: {style="margin-top: auto;"}
-<a href="https://doi.org/10.1111/2041-210X.14099" class="card-link heading-font">ACCESS</a>
-:::
-
-:::
-
-::::
+- The article introducing our new [palaeoverse R package](http://palaeoverse.palaeoverse.org)--a community-driven toolkit for streamlining palaeobiological analyses and improving code accessibility and reproducibility--is now published in *Methods in Ecology and Evolution*. 🪸🦕  <a href="https://doi.org/10.1111/2041-210X.14099" class="button">More...</a>
 
 :::
 

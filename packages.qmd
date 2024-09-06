@@ -1,9 +1,9 @@
 ---
-title: "R Packages"
 editor: source
 toc: false
 ---
 
+# R Packages
 
 ### [palaeoverse](http://palaeoverse.palaeoverse.org)
 
@@ -46,6 +46,28 @@ The palaeoverse R package is a community-driven toolkit to support the preparati
 The rphylopic R package allows users to add silhouettes of organisms from the <span style="color: #ed4d7e"><a href="http://phylopic.org/" target="_blank" style="text-decoration: none;">PhyloPic website</a></span> to plots generated in base R and ggplot2. The package was originally developed and maintained by <span style="color: #ed4d7e"><a href="https://scottchamberlain.info/" target="_blank" style="text-decoration: none;">Scott Chamberlain</a></span>.
 From ver. 1.0.0, the package is now developed and maintained by myself and <span style="color: #ed4d7e"><a href="https://williamgearty.com" target="_blank" style="text-decoration: none;">William Gearty</a></a></span>
 from the <span style="color: #ed4d7e"><a href="https://palaeoverse.org/" target="_blank" style="text-decoration: none;">Palaeoverse</a></span> team. The package is open-source, and freely available from the <span style="color: #ed4d7e"><a href="https://cran.r-project.org/web/packages/rphylopic/index.html" style="text-decoration: none;">CRAN</a></span>.
+
+:::
+
+:::
+
+### [rmacrostrat](http://rmacrostrat.palaeoverse.org)  
+<a href="https://doi.org/10.5281/zenodo.13143096"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13143096.svg" alt="DOI"></a>
+<a href="https://CRAN.R-project.org/package=rmacrostrat"><img src="https://www.r-pkg.org/badges/version/rmacrostrat"></a>
+<a href="https://cran.r-project.org/package=rmacrostrat"><img src="https://cranlogs.r-pkg.org/badges/grand-total/rmacrostrat"></a>
+
+::: {.grid}
+
+::: {.g-col-3}
+
+![](images/logo-rmacrostrat.png){width=100%}
+
+
+:::
+
+::: {.g-col-9}
+
+The rmacrostrat R package allows users to interfaces with the [Macrostrat](https://macrostrat.org){target="_blank"} database to access and retrieve a variety of geological, palaeontological, and economic data directly to the R environment. The package provides straightforward functionality for accessing and retrieving a variety of geological, paleontological, and economic data hosted by Macrostrat. The package is open-source, and freely available from the <span style="color: #ed4d7e"><a href="https://cran.r-project.org/web/packages/rmacrostrat/index.html" style="text-decoration: none;">CRAN</a></span>.
 
 :::
 
