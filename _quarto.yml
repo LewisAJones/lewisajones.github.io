@@ -37,8 +37,20 @@ website:
         file: experience.qmd
       - text: "Publications"
         file: publications.qmd
-      - text: "R Packages"
-        file: packages.qmd
+      - text: "Software"
+        menu:
+          - text: "palaeoverse"
+            icon: "gear-fill"
+            href: packages.qmd#palaeoverse
+          - text: "rphylopic"
+            icon: "bug-fill"
+            href: packages.qmd#rphylopic
+          - text: "rmacrostrat"
+            icon: "hammer"
+            href: packages.qmd#rmacrostrat
+          - text: "sepkoski"
+            icon: "graph-up"
+            href: packages.qmd#sepkoski
       - text: "Gallery"
         file: gallery.qmd
       - icon: twitter

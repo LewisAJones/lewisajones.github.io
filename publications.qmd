@@ -6,7 +6,7 @@ link-external-icon: false
 
 # Publications
 
-### **Peer-reviewed publications**
+## **Peer-reviewed publications**
 
 1. **Lewis A. Jones** and Mathew Domeier (2024). A Phanerozoic gridded dataset for palaeogeographic reconstructions. *Scientific Data* 11 (710), 1&ndash;7. DOI: [10.1038/s41597-024-03468-w](https://doi.org/10.1038/s41597-024-03468-w).
 
@@ -30,13 +30,13 @@ link-external-icon: false
 
 11.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction. *Nature Communications* 10 (1091), 1&ndash;14. DOI:[10.1038/s41467-019-08997-2](https://doi.org/10.1038/s41467-019-08997-2).
 
-### **Theses**
+## **Theses**
 
 1.  **Lewis A. Jones** (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. Supervisors: Prof. Philip D. Mannion and Prof. Peter A. Allison. DOI:[10.25560/100239](https://spiral.imperial.ac.uk/handle/10044/1/100239).
 
 2.  **Lewis A. Jones** (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master Thesis. Supervisor: Prof. David Bond.
 
-### **Other works**
+## **Other works**
 
 1.  **Lewis A. Jones** (2023). [Palaeontology’s greatest ever graphs: The absence of evidence: spatial sampling bias in the fossil record](https://www.palass.org/publications/newsletter/archive/114/newsletter-no-114). *The Palaeontological Association Newsletter* 114.
 
