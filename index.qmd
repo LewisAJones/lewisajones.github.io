@@ -17,7 +17,6 @@ about:
         href: "mailto:lewis.jones@ucl.ac.uk"
       - icon: mortarboard-fill
         href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
-backgroundcolor: "#212129"
 toc: false
 editor: source
 ---
