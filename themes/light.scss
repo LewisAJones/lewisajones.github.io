@@ -1,3 +1,6 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
 // warmer grays (hue 240)
 $transparent:    #FFFFFF !default;
 $white:    #fff !default;
@@ -181,16 +184,16 @@ div.tippy-content a:hover {
 #quarto-header {
   //font-family: "LEMONMILKPro-Regular", Jost, Helvetica, sans-serif;
   // font-family: "ABCSocialExtendedEdu-Bold", Jost, Helvetica, sans-serif;
-  font-family: $headings-font-family;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .heading-font {
-  font-family: $headings-font-family;
+  font-family: "Ubuntu", sans-serif;
   //font-family: "LEMONMILKPro-Regular", Jost, Helvetica, sans-serif;
 }
 
 .home-header {
-  font-family: $headings-font-family;
+  font-family: "Ubuntu", sans-serif;
   font-size: $font-size-base * 3;
 }
 
