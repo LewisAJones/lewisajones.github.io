@@ -1,5 +1,5 @@
 ---
-pagetitle: Lewis A. Jones - Publications
+pagetitle: Publications
 editor: source
 toc: false
 link-external-icon: false

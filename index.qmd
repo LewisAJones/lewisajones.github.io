@@ -1,4 +1,5 @@
 ---
+pagetitle: Home
 title: Lewis A. Jones
 subtitle: 
   <large> <strong> Palaeobiologist & R enthusiast </strong> </large> <br> 

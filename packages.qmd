@@ -1,5 +1,5 @@
 ---
-pagetitle: Lewis A. Jones - Software
+pagetitle: Software
 editor: source
 toc: false
 ---
