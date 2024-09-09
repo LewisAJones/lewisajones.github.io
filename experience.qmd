@@ -1,5 +1,5 @@
 ---
-pagetitle: Lewis A. Jones - Experience
+pagetitle: Experience
 editor: source
 toc: false
 ---
