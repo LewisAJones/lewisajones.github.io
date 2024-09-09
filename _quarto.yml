@@ -33,6 +33,8 @@ website:
     right:    
       - text: "About"
         file: index.qmd
+      - text: "Research"
+        file: research.qmd
       - text: "Experience"
         file: experience.qmd
       - text: "Publications"

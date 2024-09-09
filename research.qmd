@@ -1,0 +1,50 @@
+---
+pagetitle: Research
+editor: source
+toc: false
+---
+
+# Research
+
+### [Elucidating Diversity Dynamics in Marine Tropical Hotspots](https://github.com/EDiTH-NERC)
+Life on Earth is extraordinarily diverse. More than eight million species are recognised today, and yet they represent a tiny fragment of the total number of species that have ever existed. Today, this richness is unevenly distributed across the Earth’s surface with biodiversity hotspots—areas of particularly high species richness—a macroecological phenomenon of the biosphere. Within the marine realm, biodiversity is concentrated in the Indo-Australian Archipelago, where corals and other reef groups achieve their greatest species richness. Although such spatial disparity in biodiversity has been recognised for centuries, we still do not understand the formation and drivers of such biodiversity hotspots, which is critical to forecasting species’ responses to ongoing global change.
+
+![](images/edith.png)
+
+The fossil record tells us that biodiversity hotspots have waxed and waned through time, with the existence of at least four marine biodiversity hotspots throughout the Cenozoic—the last 66 million years. ***But what is the evolutionary history of these biodiversity hotspots? And are there any general rules governing the emergence, maintenance, and decline of these macroecological phenomena?*** In the EDiTH project, I am addressing these questions by integrating the rich fossil record of corals with ecological and Earth System modelling to reconstruct their macroecological and macroevolutionary history.
+
+### [Mesophotic and turbid reefs as key ecosystems for the future](https://www.paleosynthesis.nat.fau.de/index.php/murky/)
+
+::: {.grid}
+
+::: {.g-col-9}
+
+Shallow warm-water coral reef ecosystems are experiencing rapid ecological declines in response to anthropogenic climate change. However, reefs found in 'marginal' settings, including deep mesophotic and shallow turbid mesophotic habitats are currently displaying higher resilience to on-going global climatic change. If such marginal habitats provide suitable conditions to escape the impacts of climate change, then they may have the potential to act as critical ecological refugia. In the [MURKY](https://www.paleosynthesis.nat.fau.de/index.php/murky/) project, I am collaborating with a large international team to investigate whether these marginal habitats provided a long-term ecological refugia for corals throughout past climatic perturbations. 
+
+:::
+
+::: {.g-col-3}
+
+[![](images/murky.png)]((https://www.paleosynthesis.nat.fau.de/index.php/murky/))
+
+:::
+
+:::
+
+### [Palaeoverse](https://palaeoverse.org)
+
+::: {.grid}
+
+::: {.g-col-9}
+
+Since the development of large palaeontological datasets from the 1970s onwards, palaeontologists have increasingly adopted computational approaches to address questions about the history of life on Earth. Today, programming is an integral part of palaeobiological research with code commonly used to access, clean, analyse, and visualise data. In the [Palaeoverse](https://palaeoverse.org) project, I work with an international group of Early Career Researchers to bring the palaeobiology community together to share resources, reach agreed standards, and improve reproducibility in palaeobiological research.
+
+:::
+
+::: {.g-col-3}
+
+[![](images/palaeoverse.png)](https://palaeoverse.org)
+
+:::
+
+:::
