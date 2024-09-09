@@ -9,7 +9,7 @@ website:
   site-url: https://lewisajones.com
   description: "Personal website"
   image: "gallery/Arolla.jpg"
-  favicon: "icons/favicon.png"
+  favicon: "icons/coral.png"
   search: false
   open-graph: 
     image: "gallery/Arolla.jpg"
@@ -66,7 +66,7 @@ website:
     left: |
       © Copyright 2024 Lewis A. Jones
     center: |
-      [![](/images/logo-palaeoverse.png){fig-alt="Palaeoverse" width=30px}](https://palaeoverse.org)
+      [![](/images/logo-palaeoverse.png){fig-alt="Palaeoverse" width=25px}](https://palaeoverse.org)
     right: 
       - icon: twitter
         href: "https://twitter.com/LewisAlanJones"
