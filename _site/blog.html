@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Software – Lewis A. Jones</title>
+<title>Blog – Lewis A. Jones</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,6 +25,8 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <link href="./icons/coral.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -50,11 +52,70 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Software">
+<meta property="og:title" content="Blog">
+<meta property="og:description" content="Personal website">
 <meta property="og:image" content="https://lewisajones.com/gallery/Arolla.jpg">
 <meta property="og:site_name" content="Lewis A. Jones">
 <meta property="og:locale" content="en-GB">
@@ -66,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -160,68 +221,63 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Book review">Book review <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 
 
-<section id="r-packages" class="level1">
-<h1>R Packages</h1>
-<section id="palaeoverse" class="level3">
-<h3 class="anchored" data-anchor-id="palaeoverse"><a href="http://palaeoverse.palaeoverse.org">palaeoverse</a></h3>
-<p><a href="https://doi.org/10.31223/X5Z94Q"><img src="https://img.shields.io/badge/DOI-10.31223%2FX5Z94Q-blue"></a> <a href="https://CRAN.R-project.org/package=palaeoverse"><img src="https://www.r-pkg.org/badges/version/palaeoverse"></a> <a href="https://cran.r-project.org/package=palaeoverse"><img src="https://cranlogs.r-pkg.org/badges/grand-total/palaeoverse"></a></p>
-<div class="grid">
-<div class="g-col-3">
-<p><img src="images/logo-palaeoverse.png" class="img-fluid" style="width:100.0%"></p>
-</div>
-<div class="g-col-9">
-<p>The palaeoverse R package is a community-driven toolkit to support the preparation and exploration of palaeobiological data. The package provides a suite of auxiliary functions, is open-source, and freely available from the <span style="color: #ed4d7e"><a href="https://cran.r-project.org/web/packages/palaeoverse/index.html" style="text-decoration: none;">CRAN</a></span>. palaeoverse has three core principles: (1) streamline data preparation and exploration; (2) enhance code readability; and (3) improve reproducibility of results. It is my hope that over time, palaeoverse will be adopted and developed by the community, with contributors and users from across the globe.</p>
-</div>
-</div>
-</section>
-<section id="rphylopic" class="level3">
-<h3 class="anchored" data-anchor-id="rphylopic"><a href="http://rphylopic.palaeoverse.org">rphylopic</a></h3>
-<p><a href="https://CRAN.R-project.org/package=rphylopic"><img src="https://www.r-pkg.org/badges/version/rphylopic"></a> <a href="https://CRAN.R-project.org/package=rphylopic"><img src="https://cranlogs.r-pkg.org/badges/grand-total/rphylopic"></a></p>
-<div class="grid">
-<div class="g-col-3">
-<p><img src="images/logo-rphylopic.png" class="img-fluid" style="width:100.0%"></p>
-</div>
-<div class="g-col-9">
-<p>The rphylopic R package allows users to add silhouettes of organisms from the <span style="color: #ed4d7e"><a href="http://phylopic.org/" target="_blank" style="text-decoration: none;">PhyloPic website</a></span> to plots generated in base R and ggplot2. The package was originally developed and maintained by <span style="color: #ed4d7e"><a href="https://scottchamberlain.info/" target="_blank" style="text-decoration: none;">Scott Chamberlain</a></span>. From ver. 1.0.0, the package is now developed and maintained by myself and <span style="color: #ed4d7e"><a href="https://williamgearty.com" target="_blank" style="text-decoration: none;">William Gearty</a></span> from the <span style="color: #ed4d7e"><a href="https://palaeoverse.org/" target="_blank" style="text-decoration: none;">Palaeoverse</a></span> team. The package is open-source, and freely available from the <span style="color: #ed4d7e"><a href="https://cran.r-project.org/web/packages/rphylopic/index.html" style="text-decoration: none;">CRAN</a></span>.</p>
-</div>
-</div>
-</section>
-<section id="rmacrostrat" class="level3">
-<h3 class="anchored" data-anchor-id="rmacrostrat"><a href="http://rmacrostrat.palaeoverse.org">rmacrostrat</a></h3>
-<p><a href="https://doi.org/10.5281/zenodo.13143096"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13143096.svg" alt="DOI"></a> <a href="https://CRAN.R-project.org/package=rmacrostrat"><img src="https://www.r-pkg.org/badges/version/rmacrostrat"></a> <a href="https://cran.r-project.org/package=rmacrostrat"><img src="https://cranlogs.r-pkg.org/badges/grand-total/rmacrostrat"></a></p>
-<div class="grid">
-<div class="g-col-3">
-<p><img src="images/logo-rmacrostrat.png" class="img-fluid" style="width:100.0%"></p>
-</div>
-<div class="g-col-9">
-<p>The rmacrostrat R package allows users to interfaces with the <a href="https://macrostrat.org" target="_blank">Macrostrat</a> database to access and retrieve a variety of geological, palaeontological, and economic data directly to the R environment. The package provides straightforward functionality for accessing and retrieving a variety of geological, paleontological, and economic data hosted by Macrostrat. The package is open-source, and freely available from the <span style="color: #ed4d7e"><a href="https://cran.r-project.org/web/packages/rmacrostrat/index.html" style="text-decoration: none;">CRAN</a></span>.</p>
-</div>
-</div>
-</section>
-<section id="sepkoski" class="level3">
-<h3 class="anchored" data-anchor-id="sepkoski"><a href="http://sepkoski.palaeoverse.org">sepkoski</a></h3>
-<p><a href="https://zenodo.org/badge/latestdoi/564230284"><img src="https://zenodo.org/badge/564230284.svg"></a> <a href="https://CRAN.R-project.org/package=sepkoski"><img src="https://www.r-pkg.org/badges/version/sepkoski"></a> <a href="https://cran.r-project.org/package=sepkoski"><img src="https://cranlogs.r-pkg.org/badges/grand-total/sepkoski"></a></p>
-<div class="grid">
-<div class="g-col-3">
-<p><img src="images/logo-sepkoski.png" class="img-fluid" style="width:100.0%"></p>
-</div>
-<div class="g-col-9">
-<p>The sepkoski R package is a light and easy solution to access Sepkoski’s fossil marine animal genera compendium. The package provides access to the raw dataset, a dataset with intervals standardised to the International Geological Time Scale, and plotting functionality for reproducing Sepkoski’s Phanerozoic curve. The package is open-source, and freely available from the <span style="color: #ed4d7e"><a href="https://cran.r-project.org/web/packages/sepkoski/index.html" style="text-decoration: none;">CRAN</a></span>.</p>
-</div>
-</div>
+<section id="blog" class="level1">
+<h1>Blog</h1>
+<p>Hi, welcome!</p>
+
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Book review" data-listing-date-sort="1621638000000" data-listing-file-modified-sort="1725896120104" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="./posts/timefulness.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/images/timefulness.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Timefulness - How Thinking Like a Geologist Can Help Save the World
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Book review'); return false;">
+Book review
+</div>
+</div>
+<div class="card-text listing-description">
+
+
+
+
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Lewis A. Jones
+</div>
+<div class="listing-date">
+May 22, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

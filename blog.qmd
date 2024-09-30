@@ -1,0 +1,12 @@
+---
+pagetitle: Blog
+listing:
+  type: grid
+  contents: posts
+  categories: true
+toc: false
+---
+
+#  Blog
+
+Hi, welcome!
