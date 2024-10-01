@@ -101,7 +101,7 @@ h4 {
 
 .bg-img {
   background-image:  linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url("images/BA161981.JPG");
-  background-size: 100vw 100vh;
+  background-size: 100vw;
   background-attachment: fixed;
 }
 
