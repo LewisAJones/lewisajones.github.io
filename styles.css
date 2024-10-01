@@ -101,7 +101,16 @@ h4 {
 
 .bg-img {
   background-image:  linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url("/images/BA161981.JPG");
-  background-size: 100vw;
+  /* Prevent the image from repeating */
+  background-repeat: no-repeat;
+  
+  /* Set the background size to cover the whole element, allowing the zoom-in effect */
+  background-size: cover;
+
+  /* Set the initial background position to center */
+  background-position: center;
+
+  /* Fix the background, so it doesn't scroll */
   background-attachment: fixed;
 }
 
