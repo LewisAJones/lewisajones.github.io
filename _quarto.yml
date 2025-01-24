@@ -55,7 +55,9 @@ website:
             href: packages.qmd#sepkoski
       - text: "Gallery"
         file: gallery.qmd
-      - icon: twitter
+      - text: "{{< iconify fa6-brands:bluesky >}}"
+        href: "https://bsky.app/profile/lewisajones.bsky.social"
+      - text: "{{< iconify fa6-brands square-x-twitter >}}"
         href: "https://twitter.com/LewisAlanJones"
       - icon: github
         href: "https://github.com/LewisAJones"
@@ -70,7 +72,9 @@ website:
     center: |
       [![](/images/logo-palaeoverse.png){fig-alt="Palaeoverse" width=25px}](https://palaeoverse.org)
     right: 
-      - icon: twitter
+      - text: "{{< iconify fa6-brands:bluesky >}}"
+        href: "https://bsky.app/profile/lewisajones.bsky.social"
+      - text: "{{< iconify fa6-brands square-x-twitter >}}"
         href: "https://twitter.com/LewisAlanJones"
       - icon: github
         href: "https://github.com/LewisAJones"
