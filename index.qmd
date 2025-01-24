@@ -31,11 +31,7 @@ editor: source
 ::: {#hero-heading}
 :::
 
-::: {.text-col2}
-
 Macroecology & Biodiversity \| Corals & Reef Ecosystems \| Palaeoclimate \| Fossil Record Bias \| R
-
-:::
 
 :::: {.grid .transparent-box}
 ::: g-col-12
