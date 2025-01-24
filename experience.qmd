@@ -2,6 +2,7 @@
 pagetitle: Experience
 editor: source
 toc: false
+link-external-icon: false
 ---
 
 Depending on your browser, the embedded version might not work. You can download a copy [here](https://raw.githubusercontent.com/LewisAJones/cv-markdown/main/cv.pdf).
