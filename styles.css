@@ -100,7 +100,7 @@ h4 {
 }
 
 .bg-img {
-  background-image:  linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url("images/BA161981.JPG");
+  background-image:  linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url("https://github.com/LewisAJones/website/blob/a2fdbf8dfa457a201d82ae4765ef792410c7d217/images/BA161981.jpg?raw=true");
   /* Prevent the image from repeating */
   background-repeat: no-repeat;
   
