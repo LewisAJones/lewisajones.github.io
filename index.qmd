@@ -12,13 +12,11 @@ about:
     links:
       - text: "{{< iconify fa6-brands:bluesky >}}"
         href: "https://bsky.app/profile/lewisajones.bsky.social"
-      - text: "{{< iconify fa6-brands square-x-twitter >}}"
-        href: "https://twitter.com/LewisAlanJones"
-      - icon: github
+      - text: "{{< iconify fa6-brands:github >}}"
         href: "https://github.com/LewisAJones"
-      - icon: envelope-fill
+      - text: "{{< iconify cib:gmail >}}"
         href: "mailto:lewis.jones@ucl.ac.uk"
-      - icon: mortarboard-fill
+      - text: "{{< iconify fa6-brands:google-scholar >}}"
         href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
 toc: false
 editor: source
