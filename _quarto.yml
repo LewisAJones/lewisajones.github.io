@@ -1,8 +1,5 @@
 project:
   type: website
-  
-execute:
-  freeze: false
 
 website:
   title: "Lewis A. Jones"
