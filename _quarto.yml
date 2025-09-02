@@ -1,9 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Lewis A. Jones"
-  site-url: https://lewisajones.com
+  site-url: https://www.lewisajones.com
   description: "Personal website"
   image: "gallery/Arolla.jpg"
   favicon: "icons/coral.png"
