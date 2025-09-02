@@ -18,6 +18,7 @@ $black:    #000 !default;
 //  my colours
 $col1: #2F6E79;
 $col2: #1A213A;
+$col3: #2F6E79;
 
 $primary:       $col1 !default;
 $secondary:     $gray-500 !default;
@@ -88,7 +89,7 @@ div.tippy-content a:hover {
 // the line in the navbar logo
 .icon-line {
   display: block;
-  background: $col1;
+  background: $col3;
   width: 100%;
   height: 6px;
   margin: auto;
@@ -99,15 +100,15 @@ div.tippy-content a:hover {
 
 // hover on navbar
 .navbar-expand-lg .navbar-nav .nav-link:hover {
-  color: $col1;
+  color: $col3;
 }
 .navbar-expand-lg .navbar-nav .nav-link.active {
-  color: $col1;
+  color: $col3;
   font-weight: 600;
 }
 
 .navbar-title:hover {
-  color: $col1;
+  color: $col3;
 }
 
 // animated underline on hover, when navbar shows as row
@@ -145,7 +146,7 @@ div.tippy-content a:hover {
   .navbar .navbar-nav .nav-item:nth-child(9)::after,
   .navbar .navbar-nav .nav-item:nth-child(10)::after,
   .navbar .navbar-nav .nav-item:nth-child(11)::after {
-    background-color: $col1;
+    background-color: $col3;
   }
   
   .navbar .navbar-nav .nav-item:hover::after {
@@ -177,8 +178,8 @@ h2, .h2 {
 }
 
 .icon-link:hover, div.quarto-about-jolla .about-link:hover {
-    background-color: $col1;
+    background-color: $col3;
     color: $body-bg;
-    border-color: $col1;
+    border-color: $col3;
     text-decoration: none;
 }

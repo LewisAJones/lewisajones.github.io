@@ -1,29 +1,48 @@
 ---
 pagetitle: Home
+title: Lewis A. Jones
+subtitle: 
+  <large> <strong> Palaeobiologist & R enthusiast </strong> </large> <br> 
+  <small> NERC Independent Research Fellow <br>
+  Department of Earth Sciences, Univeristy College London </small>
+image: /images/rainy-day.gif
+about:
+    id: hero-heading
+    template: solana
+    links:
+      - text: "{{< iconify fa6-brands:bluesky >}}"
+        href: "https://bsky.app/profile/lewisajones.bsky.social"
+      - text: "{{< iconify fa6-brands:github >}}"
+        href: "https://github.com/LewisAJones"
+      - text: "{{< iconify cib:gmail >}}"
+        href: "mailto:lewis.jones@ucl.ac.uk"
+      - text: "{{< iconify fa6-brands:google-scholar >}}"
+        href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
 toc: false
+editor: source
 ---
 
-::: {.grid}
+<body class="bg-img">
 
-::: g-col-9
+</body>
 
-## Lewis A. Jones  
-Palaeobiologist  
-NERC Independent Research Fellow  
-Department of Earth Sciences, Univeristy College London
+::: {#hero-heading}
+:::
+
+::: {.text-col2}
 
 **Macroecology & Biodiversity \| Corals & Reef Ecosystems \| Palaeoclimate \| Fossil Record Bias \| R**
 
 :::
 
-::: g-col-3
+:::: {.grid .transparent-box}
 
-![](/images/rainy-day.gif)
-
-:::
-
-:::
+::: g-col-12
 
 I am a **Computational Palaeobiologist** examining the macroecological and macroevolutionary history of reef-building organisms through the integration of interdisciplinary tools and diverse sources of information, such as ecological modelling, Earth System modelling, and fossil and extant occurrence datasets. An additional theme of my research is evaluating the influence of data incompleteness on our perceptions of the geological past, such as biodiversity trends. I also work on developing open-source software tools and resources for the palaeobiology community with the aim of improving research reproducibility in the field.
 
 I am currently a NERC Independent Research Fellow at [Univeristy College London](https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-lewis-jones), where I am focusing on reconstructing the evolutionary history of Cenozoic marine biodiversity hotspots and testing their long-term drivers.
+
+:::
+
+::::

@@ -6,8 +6,6 @@
 .navbar {
     border: none;
     border-bottom: 4px solid #2F6E79 !important;
-    min-height: 4vw;
-    max-height: 6vw;
   }
 
 .nav-link {
