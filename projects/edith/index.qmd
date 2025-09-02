@@ -1,0 +1,61 @@
+---
+pagetitle: EDiTH
+title: Elucidating Diversity Dynamics in Marine Tropical Hotspots
+title-block-banner: true
+search: false
+toc: false
+---
+
+## Project Metadata
+
+**Title:** Elucidating Diversity Dynamics in Marine Tropical Hotspots (EDiTH)  
+**Funding Agency:** Natural Environment Research Council (Independent Research Fellowship awarded to [Lewis A. Jones](https://lewisajones.com))  
+**Grant Reference:** UKRI185  
+**Period:** 2024–2029  
+**Lead:** [Lewis A. Jones](https://lewisajones.com), University College London, UK  
+**Collaborators:** [Dr Nadia Santodomingo](https://www.senckenberg.de/de/institute/senckenberg-gesellschaft-fuer-naturforschung-frankfurt-main/abt-marine-zoologie/marine-evertebraten-i/marine-evertebraten-i-team/), Senckenberg Forschungsinstitut und Naturmuseum Frankfurt, Germany **|** [Prof. Francesca Bosellini](https://personale.unimore.it/rubrica/dettaglio/frabos), University of Modena and Reggio Emilia, Italy **|** [Prof. Martin Zuschin](https://ufind.univie.ac.at/en/person.html?id=6551), University of Vienna, Austria **|** [Prof. Ann Budd](https://ees.uiowa.edu/people/ann-budd), University of Iowa, USA **|** [Prof. Daniele Silvestro](https://www.unifr.ch/bio/en/department/staff/alphabetical-list/people/310596/9b4cc), University of Fribourg, Switzerland **|** [Dr Alexander Farnsworth](https://www.bristol.ac.uk/people/person/Alexander-Farnsworth-24da3223-4bc1-4e18-9bcb-eb02a7976395/), University of Bristol, UK **|** [Dr Sabin Zahirovic](https://www.sydney.edu.au/science/about/our-people/academic-staff/sabin-zahirovic.html), University of Sydney, Australia
+
+![](edith.png){width="20%"}
+![](UKRI_NERC.png){width="25%"}
+
+
+## Project Summary
+
+Life on Earth is extraordinarily diverse. More than eight million species are recognised today, and yet they represent a tiny fragment of the total number of species that have ever existed. Today, this richness is unevenly distributed across the Earth’s surface with biodiversity hotspots—areas of particularly high species richness—a macroecological phenomenon of the biosphere. Within the marine realm, biodiversity is concentrated in the Indo-Australian Archipelago, where corals and other reef groups achieve their greatest species richness. Although such spatial disparity in biodiversity has been recognised for centuries, we still do not understand the formation and drivers of such biodiversity hotspots, which is critical to forecasting species’ responses to ongoing global change.
+
+The fossil record tells us that biodiversity hotspots have waxed and waned through time, with the existence of at least four marine biodiversity hotspots throughout the Cenozoic—the last 66 million years. But what is the evolutionary history of these biodiversity hotspots? And are there any general rules governing the emergence, maintenance, and decline of these macroecological phenomena? In the EDiTH project, we are addressing these questions by integrating the rich fossil record of corals with ecological and Earth System modelling to reconstruct their macroecological and macroevolutionary history.
+
+The specific objectives of the project are:
+
+- Develop a comprehensive and standardised dataset of Cenozoic marine biodiversity hotspots
+- Reconstruct temporal diversity dynamics for Cenozoic marine biodiversity hotspots
+- Reconstruct diversification rates for Cenozoic marine biodiversity hotspots
+- Test the drivers of hotspot diversity dynamics within a spatially explicit process-driven framework
+- Fill temporal and spatial data gaps in our record of Cenozoic marine biodiversity hotspots
+
+This project will provide a deeper understanding of the evolutionary dynamics and environmental conditions that have shaped marine ecosystems over millions of years. Such knowledge is crucial for unravelling the history of life on Earth and for predicting future ecological responses to changing climatic conditions.
+
+## Project Links
+
+- [Zenodo data repository](https://zenodo.org/communities/edith)
+- [GitHub repository](https://github.com/UKRI185)
+
+## Project News
+
+- **July 2025**: Presented a poster at the Crossing the Palaeontological-Ecological Gap meeting in Zürich, Switzerland (27^th^ July--1^st^ August 2025) entitled "Elucidating Diversity Dynamics in Marine Tropical Hotspots: Caribbean". This poster introduced the *EDiTH* project and initial results based on data from the Caribbean.
+
+::: {.grid}
+
+::: {.g-col-8}
+
+![Photograph during the poster session with co-author Dr Nadia Santodomingo.](CPEG2025/presentation.jpg)
+
+:::
+
+::: {.g-col-4}
+
+[![Poster introducing the EDiTH project and some initial results at the Crossing the Palaeontological-Ecological Gap conference in Zürich, Switzerland (27^th^ July--1^st^ August 2025). **Click image for pdf**.](CPEG2025/poster.png)](CPEG2025/poster.pdf)
+
+:::
+
+:::

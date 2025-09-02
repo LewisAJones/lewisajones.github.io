@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lewisajones.com/blog.html</loc>
-    <lastmod>2024-09-09T15:29:51.702Z</lastmod>
+    <loc>https://lewisajones.com/software/index.html</loc>
+    <lastmod>2025-09-02T12:24:38.413Z</lastmod>
   </url>
   <url>
-    <loc>https://lewisajones.com/publications.html</loc>
-    <lastmod>2025-01-24T09:14:30.785Z</lastmod>
+    <loc>https://lewisajones.com/projects/edith/index.html</loc>
+    <lastmod>2025-09-02T12:50:22.186Z</lastmod>
   </url>
   <url>
-    <loc>https://lewisajones.com/gallery.html</loc>
-    <lastmod>2024-09-09T07:28:24.747Z</lastmod>
+    <loc>https://lewisajones.com/publications/index.html</loc>
+    <lastmod>2025-09-02T10:59:05.773Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lewisajones.com/research/index.html</loc>
+    <lastmod>2025-08-02T12:15:56.446Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lewisajones.com/experience/index.html</loc>
+    <lastmod>2025-09-02T12:23:31.905Z</lastmod>
   </url>
   <url>
     <loc>https://lewisajones.com/posts/timefulness.html</loc>
     <lastmod>2024-09-09T15:35:20.104Z</lastmod>
   </url>
   <url>
-    <loc>https://lewisajones.com/research.html</loc>
-    <lastmod>2024-09-30T10:38:43.562Z</lastmod>
+    <loc>https://lewisajones.com/gallery/index.html</loc>
+    <lastmod>2025-08-04T16:20:09.908Z</lastmod>
   </url>
   <url>
     <loc>https://lewisajones.com/index.html</loc>
-    <lastmod>2025-02-07T15:08:18.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lewisajones.com/experience.html</loc>
-    <lastmod>2025-01-24T13:32:01.414Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lewisajones.com/packages.html</loc>
-    <lastmod>2024-09-09T07:27:59.543Z</lastmod>
+    <lastmod>2025-09-02T12:54:48.206Z</lastmod>
   </url>
 </urlset>

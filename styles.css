@@ -3,6 +3,37 @@
 
 /* css styles */
 
+.navbar {
+    border: none;
+    border-bottom: 4px solid #2F6E79 !important;
+    min-height: 4vw;
+    max-height: 6vw;
+  }
+
+.nav-link {
+  font-size: 1em;
+  font-weight: 400;
+  color: white;
+}
+
+.navbar-brand > img {
+  max-height: 4vw;
+}
+
+.navbar-brand {
+  font-size: 1.25em;
+  color: white;
+}
+
+.footer {
+  border: none;
+  border-top: 4px solid #2F6E79 !important;
+  }
+
+h1.title {
+  color: white; /* Replace with your desired color */
+}
+
 .center {
   display: block;
   margin-left: auto;
@@ -58,14 +89,15 @@ h1 {
 }
 
 h2 {
-  font-size: 2em;
-  margin-top: 0.67em;
+  font-size: 1.75em;
+  margin-top: 1em;
   margin-bottom: 0em;
   margin-left: 0;
   margin-right: 0;
-  font-weight: bold;
+  font-weight: 600;
   text-align: left;
   color: #212129;
+  border-bottom: none;
 }
 
 h3 { 
@@ -105,7 +137,7 @@ h4 {
 }
 
 .bg-img {
-  background-image:  linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url("https://github.com/LewisAJones/website/blob/a2fdbf8dfa457a201d82ae4765ef792410c7d217/images/BA161981.jpg?raw=true");
+  background-image:  linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url("images/BA161981.jpg");
   /* Prevent the image from repeating */
   background-repeat: no-repeat;
   

@@ -1,0 +1,35 @@
+---
+pagetitle: Gallery
+title: Gallery
+title-block-banner: true
+editor: source
+toc: false
+---
+
+![White Sands, USA](White_Sands.jpg){width="100%"} White Sands, USA
+
+![Wolf Creek, USA.](Overpass.jpg){width="100%"} Wolf Creek, USA.
+
+![Arolla, Switzerland.](Arolla.jpg){width="100%"} Arolla, Switzerland.
+
+![Allgau](Allgau.jpg){width="100%"} Allgäu, Germany.
+
+![Richmond Park, UK.](Deer.jpg){width="100%"} Richmond Park, UK.
+
+::: grid
+::: g-col-6
+![Hull, UK.](Portrait1.jpg) Hull, UK.
+:::
+
+::: g-col-6
+![Hull, UK.](Disturbia.jpg) Hull, UK.
+:::
+:::
+
+![Hull, UK.](Steel_Wool.jpg){width="100%"} Hull, UK.
+
+![Street food market, Harbin, China.](China_2.jpg){width="100%"} Street food market, Harbin, China.
+
+![Shenyang, China.](China_1.jpg){width="100%"}Shenyang, China.
+
+![Harbin, China.](China_3.jpg){width="100%"} Harbin, China.

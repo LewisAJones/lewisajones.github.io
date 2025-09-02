@@ -1,0 +1,184 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+// warmer grays (hue 240)
+$transparent:    #FFFFFF !default;
+$white:    #fff !default;
+$gray-100: #F8F8FA !default;
+$gray-200: #E9E9EF !default;
+$gray-300: #DCDCE6 !default;
+$gray-400: #CECEDA !default;
+$gray-500: #ADADBD !default;
+$gray-600: #868696 !default;
+$gray-700: #494957 !default;
+$gray-800: #343440 !default;
+$gray-900: #212129 !default;
+$black:    #000 !default;
+
+//  my colours
+$col1: #2F6E79;
+$col2: #1A213A;
+
+$primary:       $col1 !default;
+$secondary:     $gray-500 !default;
+$success:       $col1 !default;
+$info:          $col1 !default;
+$warning:       $col1 !default;
+$danger:        $col1 !default;
+$light:         $gray-100 !default;
+$dark:          $gray-900 !default;
+
+// font sizes;
+$font-size-base:   1rem !default; // Assumes the browser default, typically `16px`
+$h1-font-size:     $font-size-base * 2.5 !default;
+$h2-font-size:     $font-size-base * 1.5 !default;
+$h3-font-size:     $font-size-base * 1.5 !default;
+$h4-font-size:     $font-size-base * 1.5 !default;
+$h5-font-size:     $font-size-base * 1.25 !default;
+$h6-font-size:     $font-size-base !default;
+
+// colour tweaks to theme
+$body-bg: $white;
+$body-color: $dark;
+$body-secondary: $dark;
+$navbar-bg: $col2;
+$navbar-fg: $gray-800;
+
+/*-- scss:rules --*/
+
+// color classes
+.primary {
+  color: $primary;
+}
+
+// links
+a {
+  color: $col1;
+  text-decoration: none; 
+  font-weight: 600;
+  //text-underline-offset: .1rem;
+}
+
+a:hover {
+  color: $body-color;
+  text-decoration-color: $primary;
+}
+
+.toc-actions a {
+  text-decoration: none !important;  
+  border-bottom: 0;
+}
+
+.toc-actions a:hover {
+  color: $primary;
+}
+
+div.tippy-content a:hover {
+  text-decoration-color: $primary;
+}
+
+// navbar
+.navbar-title {
+  padding-left: 10px;
+  font-size: $font-size-base * 1.5;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+}
+
+// the line in the navbar logo
+.icon-line {
+  display: block;
+  background: $col1;
+  width: 100%;
+  height: 6px;
+  margin: auto;
+  display: table;
+  margin-top: -6px;
+  margin-bottom: -6px;
+}
+
+// hover on navbar
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+  color: $col1;
+}
+.navbar-expand-lg .navbar-nav .nav-link.active {
+  color: $col1;
+  font-weight: 600;
+}
+
+.navbar-title:hover {
+  color: $col1;
+}
+
+// animated underline on hover, when navbar shows as row
+@media screen and (min-width: 992px) {
+  a.nav-link {
+    position: relative;
+  }
+  
+  .navbar .navbar-nav .nav-item {
+    position: relative;
+  }
+  
+  .navbar .navbar-nav .nav-item::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: $primary;
+    width: 0%;
+    content: "";
+    height: 6px;
+    transition: all 0.3s;
+  }
+  
+  .navbar .navbar-nav .nav-item:nth-child(1)::after, 
+  .navbar .navbar-nav .nav-item:nth-child(2)::after,
+  .navbar .navbar-nav .nav-item:nth-child(3)::after,
+  .navbar .navbar-nav .nav-item:nth-child(4)::after,
+  .navbar .navbar-nav .nav-item:nth-child(5)::after,
+  .navbar .navbar-nav .nav-item:nth-child(6)::after,
+  .navbar .navbar-nav .nav-item:nth-child(7)::after,
+  .navbar .navbar-nav .nav-item:nth-child(8)::after,
+  .navbar .navbar-nav .nav-item:nth-child(9)::after,
+  .navbar .navbar-nav .nav-item:nth-child(9)::after,
+  .navbar .navbar-nav .nav-item:nth-child(10)::after,
+  .navbar .navbar-nav .nav-item:nth-child(11)::after {
+    background-color: $col1;
+  }
+  
+  .navbar .navbar-nav .nav-item:hover::after {
+    width: 85%;
+  }
+}
+
+// header styles (more in ek-styles.css)
+h2, .h2 {
+    border-bottom: 1px solid $gray-300;
+    padding-bottom: .5rem;
+    color: #212129 !important;
+}
+
+// icon-links
+.icon-link, div.quarto-about-jolla .about-link {
+    background-color: transparent;
+    color: $primary;
+    //border: 2px solid !important;
+    border: 2px solid;
+    border-color: $primary;
+    padding: 5px .4rem 5px .4rem !important;
+    margin-top: 4px;
+    margin-right: 8px;
+    margin-bottom: 4px;
+    border-radius: 5px; 
+    display: inline-block;
+    text-decoration: none;
+}
+
+.icon-link:hover, div.quarto-about-jolla .about-link:hover {
+    background-color: $col1;
+    color: $body-bg;
+    border-color: $col1;
+    text-decoration: none;
+}

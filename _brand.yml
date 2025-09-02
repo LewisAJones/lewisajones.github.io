@@ -1,0 +1,31 @@
+meta:
+  name: Lewis A. Jones
+  link: https://lewisajones.com
+  
+logo: 
+  images:
+    logo-image: img/logo.png
+  
+color:
+  palette:
+    light-blue: "#2F6E79"
+    mid-blue: "#245665"
+    dark-blue: "#1A213A"
+    light-green: "#56B367"
+    dark-green: "#0D725A"
+    purple: "#4b2e83"
+    light-grey: "#EBEBEB"
+    mid-grey: "#C6C5C4"
+    dark-grey: "#575756"
+    black: "#1D1D1B"
+    white: "#FFFFFF"
+  background: white
+  foreground: dark-grey
+  primary: dark-blue
+  secondary: dark-green
+
+typography:
+  link:
+    color: light-blue
+    weight: 400
+    decoration: underline

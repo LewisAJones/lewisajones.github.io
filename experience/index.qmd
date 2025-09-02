@@ -1,0 +1,18 @@
+---
+pagetitle: CV
+title: Curriculum Vitae
+title-block-banner: true
+title-block-banner-colour: "#1A213A"
+toc: false
+link-external-icon: false
+---
+
+Download a copy [here](https://raw.githubusercontent.com/LewisAJones/cv-markdown/main/cv.pdf).
+
+```{r, include=FALSE}
+text <- readLines("https://raw.githubusercontent.com/LewisAJones/cv-markdown/refs/heads/main/README.md")
+text <- text[1:length(text)]
+write(x = text, file = "_content.md")
+```
+
+{{< include _content.md >}}

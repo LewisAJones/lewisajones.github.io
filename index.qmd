@@ -2,7 +2,7 @@
 pagetitle: Home
 title: Lewis A. Jones
 subtitle: 
-  <large> <strong> Palaeobiologist & R enthusiast </strong> </large> <br> 
+  <large> <strong> Palaeobiologist </strong> </large> <br> 
   <small> NERC Independent Research Fellow <br>
   Department of Earth Sciences, Univeristy College London </small>
 image: /images/rainy-day.gif
@@ -36,33 +36,13 @@ Macroecology & Biodiversity \| Corals & Reef Ecosystems \| Palaeoclimate \| Foss
 :::
 
 :::: {.grid .transparent-box}
+
 ::: g-col-12
+
 I am a **Computational Palaeobiologist** examining the macroecological and macroevolutionary history of reef-building organisms through the integration of interdisciplinary tools and diverse sources of information, such as ecological modelling, Earth System modelling, and fossil and extant occurrence datasets. An additional theme of my research is evaluating the influence of data incompleteness on our perceptions of the geological past, such as biodiversity trends. I also work on developing open-source software tools and resources for the palaeobiology community with the aim of improving research reproducibility in the field.
 
 I am currently a NERC Independent Research Fellow at [Univeristy College London](https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-lewis-jones), where I am focusing on reconstructing the evolutionary history of Cenozoic marine biodiversity hotspots and testing their long-term drivers.
 
-### **What's new?**
-
-#### 2025
-
--  Our report from a student field course on "Quantifying diversity and growth form distribution of scleractinian corals, in Mangrove Bay, El Qoseir, Egypt" is out now in ***Biodiversity Data Journal***  🪸 <a href="https://doi.org/10.3897/BDJ.13.e134282" class="button">More...</a>
-
-#### 2024
-
--   Interested in accessing and making use of [Macrostrat](https://macrostrat.org)'s data within the R environment, check out our new [rmacrostrat](http://rmacrostrat.palaeoverse.org) R package now published in ***Geosphere***. 🔨 <a href="https://doi.org/10.1130/GES02815.1" class="button">More...</a>
-
--   I've moved back to London! I am now a Research Fellow at University College London after securing a NERC Independent Research Fellowship to work on the Cenozoic marine biodiversity hotspots. 🪸
-
--   Do you want to easily generate standardised palaeocoordinates for your data across many Global Plate Models? We provide a Phanerozoic gridded dataset for palaeogeographic reconstructions in our recent article published in ***Scientific Data***. 🌐 <a href="https://doi.org/10.1038/s41597-024-03468-w" class="button">More...</a>
-
--   How did dinosaurs adapt to climatic shifts throughout the Mesozoic? Combining fossils with macroevolutionary and palaeoclimatic models, we show distinct evolutionary pathways in the main dinosaur lineages in our article published in ***Current Biology***. 🦕 <a href="https://doi.org/10.1016/j.cub.2024.04.051" class="button">More...</a>
-
--   How can we reconstruct past climates from patchy and spatially biased records? We address this question in our new paper published in ***Climate of the Past***. 🌍🌡️❓ <a href="https://doi.org/10.5194/cp-20-349-2024" class="button">More...</a>
-
-#### 2023
-
--   Does Global Plate Model choice matter? We address this question in our new paper published in ***Methods in Ecology and Evolution***. 🌍 <a href="https://doi.org/10.1111/2041-210X.14204" class="button">More...</a>
-
--   The article introducing our new [palaeoverse R package](http://palaeoverse.palaeoverse.org)--a community-driven toolkit for streamlining palaeobiological analyses and improving code accessibility and reproducibility--is now published in ***Methods in Ecology and Evolution***. 🪸🦕 <a href="https://doi.org/10.1111/2041-210X.14099" class="button">More...</a>
 :::
+
 ::::

@@ -32,29 +32,34 @@ website:
     background: transparent
     right:    
       - text: "About"
-        file: index.qmd
+        href: index.qmd
       - text: "Research"
-        file: research.qmd
-      - text: "Experience"
-        file: experience.qmd
+        href: research/index.qmd
+      - text: "Projects"
+        menu:
+          - text: "EDiTH (UKRI185)"
+            icon: "graph-up"
+            href: projects/edith/index.qmd
+      - text: "CV"
+        href: experience/index.qmd
       - text: "Publications"
-        file: publications.qmd
+        href: publications/index.qmd
       - text: "Software"
         menu:
           - text: "palaeoverse"
             icon: "gear-fill"
-            href: packages.qmd#palaeoverse
+            href: software/index.qmd#palaeoverse
           - text: "rphylopic"
             icon: "bug-fill"
-            href: packages.qmd#rphylopic
+            href: software/index.qmd#rphylopic
           - text: "rmacrostrat"
             icon: "hammer"
-            href: packages.qmd#rmacrostrat
+            href: software/index.qmd#rmacrostrat
           - text: "sepkoski"
             icon: "graph-up"
-            href: packages.qmd#sepkoski
+            href: software/index.qmd#sepkoski
       - text: "Gallery"
-        file: gallery.qmd
+        file: gallery/index.qmd
       - text: "{{< iconify fa6-brands:bluesky >}}"
         href: "https://bsky.app/profile/lewisajones.bsky.social"
       - icon: github
@@ -64,11 +69,11 @@ website:
       - icon: mortarboard-fill
         href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
   page-footer: 
-    background: "#f6f5f3"
+    background: "#1A213A"
     left: |
       © Copyright 2025 Lewis A. Jones
     center: |
-      [![](/images/logo-palaeoverse.png){fig-alt="Palaeoverse" width=25px}](https://palaeoverse.org)
+      [![](/images/palaeoverse.png){fig-alt="Palaeoverse" height=25px}](https://palaeoverse.org)
     right: 
       - text: "{{< iconify fa6-brands:bluesky >}}"
         href: "https://bsky.app/profile/lewisajones.bsky.social"
@@ -80,8 +85,10 @@ website:
         href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
 format:
   html:
+    page-layout: full
     theme:
-      light: themes/light.scss
+      - theme.scss
+      - brand
     css: styles.css
     toc: true
     smooth-scroll: true
