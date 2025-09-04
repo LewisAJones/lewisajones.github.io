@@ -1,6 +1,3 @@
-<span style="float:right;text-align:right;padding:6px"> 
-  <b>NERC Independent Research Fellow</b> <br> Department of Earth Sciences <br> University College London, London, UK
-</span>
 
 # Dr Lewis A. Jones
 

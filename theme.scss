@@ -13,7 +13,7 @@ $gray-600: #868696 !default;
 $gray-700: #494957 !default;
 $gray-800: #343440 !default;
 $gray-900: #212129 !default;
-$black:    #000 !default;
+$black:    #212129 !default;
 
 //  my colours
 $col1: #2F6E79;
@@ -104,7 +104,6 @@ div.tippy-content a:hover {
 }
 .navbar-expand-lg .navbar-nav .nav-link.active {
   color: $col3;
-  font-weight: 600;
 }
 
 .navbar-title:hover {

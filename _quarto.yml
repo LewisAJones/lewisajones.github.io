@@ -24,7 +24,7 @@ website:
           - text: "EDiTH (UKRI185)"
             icon: "graph-up"
             href: projects/edith/index.qmd
-      - text: "Experience"
+      - text: "CV"
         href: experience/index.qmd
       - text: "Publications"
         href: publications/index.qmd

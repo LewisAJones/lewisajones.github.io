@@ -4,9 +4,9 @@ search: false
 toc: false
 ---
 
-# Elucidating Diversity Dynamics in Marine Tropical Hotspots
+## Elucidating Diversity Dynamics in Marine Tropical Hotspots
 
-## Project Metadata
+### Metadata
 
 **Title:** Elucidating Diversity Dynamics in Marine Tropical Hotspots (EDiTH)  
 **Funding Agency:** Natural Environment Research Council (Independent Research Fellowship awarded to [Lewis A. Jones](https://lewisajones.com))  
@@ -19,7 +19,7 @@ toc: false
 ![](UKRI_NERC.png){width="25%"}
 
 
-## Project Summary
+### Summary
 
 Life on Earth is extraordinarily diverse. More than eight million species are recognised today, and yet they represent a tiny fragment of the total number of species that have ever existed. Today, this richness is unevenly distributed across the Earth’s surface with biodiversity hotspots—areas of particularly high species richness—a macroecological phenomenon of the biosphere. Within the marine realm, biodiversity is concentrated in the Indo-Australian Archipelago, where corals and other reef groups achieve their greatest species richness. Although such spatial disparity in biodiversity has been recognised for centuries, we still do not understand the formation and drivers of such biodiversity hotspots, which is critical to forecasting species’ responses to ongoing global change.
 
@@ -35,12 +35,12 @@ The specific objectives of the project are:
 
 This project will provide a deeper understanding of the evolutionary dynamics and environmental conditions that have shaped marine ecosystems over millions of years. Such knowledge is crucial for unravelling the history of life on Earth and for predicting future ecological responses to changing climatic conditions.
 
-## Project Links
+### Links
 
 - [Zenodo data repository](https://zenodo.org/communities/edith)
 - [GitHub repository](https://github.com/UKRI185)
 
-## Project News
+### News
 
 - **July 2025**: Presented a poster at the Crossing the Palaeontological-Ecological Gap meeting in Zürich, Switzerland (27^th^ July--1^st^ August 2025) entitled "Elucidating Diversity Dynamics in Marine Tropical Hotspots: Caribbean". This poster introduced the *EDiTH* project and initial results based on data from the Caribbean.
 

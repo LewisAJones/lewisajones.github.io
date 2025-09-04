@@ -29,12 +29,12 @@
   }
 
 h1.title {
-  color: black; /* Replace with your desired color */
+  color: #212129; /* Replace with your desired color */
   text-align: center;
 }
 
 .subtitle.lead {
-  color: black; /* Replace with your desired color */
+  color: #212129; /* Replace with your desired color */
   text-align: center;
 }
 
@@ -71,14 +71,14 @@ body {
 .title {
   font-size: 2em;
   font-weight: 600;
-  color: #f6f5f3;
+  color: #212129;
   font-family: "Ubuntu", sans-serif;
 }
 
 .subtitle {
   font-size: 1.25em;
   font-weight: 400;
-  color: #f6f5f3;
+  color: #212129;
   font-family: "Ubuntu", sans-serif;
 }
 
@@ -114,6 +114,7 @@ h3 {
   margin-right: 0;
   font-weight: bold;
   color: #212129;
+  opacity: 1;
 }
 
 h4 { 
@@ -125,6 +126,7 @@ h4 {
   margin-right: 0;
   text-align: center;
   color: #212129;
+  opacity: 1;
 }
 
 .about-link-text {

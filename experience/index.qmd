@@ -1,14 +1,14 @@
 ---
-pagetitle: Experience
+pagetitle: CV
 toc: false
 link-external-icon: false
 ---
 
-Download a copy <a href="LewisJonesCV.pdf" target="_blank">here</a>.
+<a href="LewisJonesCV.pdf" target="_blank">💾</a>
 
 ```{r, include=FALSE}
 text <- readLines("https://raw.githubusercontent.com/LewisAJones/cv-markdown/refs/heads/main/README.md")
-text <- text[1:length(text)]
+text <- text[4:length(text)]
 write(x = text, file = "_content.md")
 download.file(url = "https://raw.githubusercontent.com/LewisAJones/cv-markdown/main/cv.pdf",
               destfile = "LewisJonesCV.pdf")
