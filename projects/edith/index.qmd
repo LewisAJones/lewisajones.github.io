@@ -54,7 +54,7 @@ This project will provide a deeper understanding of the evolutionary dynamics an
 
 ::: {.g-col-4}
 
-[![Poster introducing the EDiTH project and some initial results at the Crossing the Palaeontological-Ecological Gap conference in Zürich, Switzerland (27^th^ July--1^st^ August 2025). **Click image for pdf**.](CPEG2025/poster.png)](CPEG2025/poster.pdf)
+![Poster introducing the EDiTH project and some initial results at the Crossing the Palaeontological-Ecological Gap conference in Zürich, Switzerland (27^th^ July--1^st^ August 2025). **<a href="CPEG2025/poster.pdf" target="_blank">High-resolution version</a>**.](CPEG2025/poster.png)
 
 :::
 

@@ -9,20 +9,6 @@ website:
   image: "gallery/Arolla.jpg"
   favicon: "icons/coral.png"
   search: false
-  open-graph: 
-    image: "gallery/Arolla.jpg"
-    image-width: 500
-    image-height: 500
-    locale: en-GB
-  twitter-card: 
-    title: Lewis A. Jones
-    description: The personal website of Lewis A. Jones
-    image: "gallery/Arolla.jpg"
-    image-width: 500
-    image-height: 500
-    card-style: summary
-    creator: "@LewisAlanJones"
-    site: "@LewisAlanJones"
   navbar:
     pinned: true
     title: "Lewis A. Jones"
@@ -38,7 +24,7 @@ website:
           - text: "EDiTH (UKRI185)"
             icon: "graph-up"
             href: projects/edith/index.qmd
-      - text: "CV"
+      - text: "Experience"
         href: experience/index.qmd
       - text: "Publications"
         href: publications/index.qmd
