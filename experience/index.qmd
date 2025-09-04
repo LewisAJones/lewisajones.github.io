@@ -1,11 +1,10 @@
 ---
 pagetitle: Experience
-title: Experience
-title-block-banner: true
-title-block-banner-colour: "#1A213A"
 toc: false
 link-external-icon: false
 ---
+
+# Experience
 
 Download a copy <a href="LewisJonesCV.pdf" target="_blank">here</a>.
 

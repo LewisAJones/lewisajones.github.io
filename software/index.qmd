@@ -1,10 +1,10 @@
 ---
 pagetitle: Software
-title: Software
-title-block-banner: true
 editor: source
 toc: false
 ---
+
+# Software
 
 ## [palaeoverse](http://palaeoverse.palaeoverse.org)
 

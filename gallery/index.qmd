@@ -1,10 +1,10 @@
 ---
 pagetitle: Gallery
-title: Gallery
-title-block-banner: true
 editor: source
 toc: false
 ---
+
+# Gallery
 
 ![White Sands, USA](White_Sands.jpg){width="100%"} White Sands, USA
 

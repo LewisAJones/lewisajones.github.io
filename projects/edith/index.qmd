@@ -1,10 +1,10 @@
 ---
 pagetitle: EDiTH
-title: Elucidating Diversity Dynamics in Marine Tropical Hotspots
-title-block-banner: true
 search: false
 toc: false
 ---
+
+# Elucidating Diversity Dynamics in Marine Tropical Hotspots
 
 ## Project Metadata
 

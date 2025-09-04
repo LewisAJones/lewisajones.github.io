@@ -1,12 +1,11 @@
 ---
 pagetitle: Publications
-title: Publications
-title-block-banner: true
-title-block-banner-colour: "#1A213A"
 editor: source
 toc: false
 link-external-icon: false
 ---
+
+# Publications
 
 ## **Peer-reviewed publications**
 

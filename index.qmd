@@ -1,11 +1,7 @@
 ---
 pagetitle: Home
 title: Lewis A. Jones
-subtitle: 
-  <large> Palaeobiologist & R Enthusiast </large> <br> <br>
-  <small> NERC Independent Research Fellow <br>
-  Department of Earth Sciences, Univeristy College London <br> <br>
-  Macroecology & Biodiversity \| Corals & Reef Ecosystems \| Palaeoclimate \| Fossil Record Bias \| R </small> <br>
+subtitle: Palaeobiologist & R Enthusiast
 image: /images/profile.jpeg
 about:
     id: hero-heading
@@ -23,7 +19,12 @@ toc: false
 editor: source
 ---
 
-::: {#hero-heading}
+::: {#hero-heading .center}
+
+Department of Earth Sciences, Univeristy College London
+
+Macroecology & Biodiversity \| Corals & Reef Ecosystems \| Palaeoclimate \| Fossil Record Bias \| R
+
 :::
 
 I am a Palaeobiologist examining the macroecological and macroevolutionary history of reef-building organisms through the integration of interdisciplinary tools and diverse sources of information, such as ecological modelling, Earth System modelling, and fossil and extant occurrence datasets. An additional theme of my research is evaluating the influence of data incompleteness on our perceptions of the geological past, such as palaeoclimatic and biodiversity trends. I also work on developing open-source software tools and resources for the palaeobiological community with the aim of improving research reproducibility in the field. 
