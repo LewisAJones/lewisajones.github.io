@@ -4,8 +4,6 @@ toc: false
 link-external-icon: false
 ---
 
-# Experience
-
 Download a copy <a href="LewisJonesCV.pdf" target="_blank">here</a>.
 
 ```{r, include=FALSE}

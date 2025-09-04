@@ -4,8 +4,6 @@ editor: source
 toc: false
 ---
 
-# Gallery
-
 ![White Sands, USA](White_Sands.jpg){width="100%"} White Sands, USA
 
 ![Wolf Creek, USA.](Overpass.jpg){width="100%"} Wolf Creek, USA.

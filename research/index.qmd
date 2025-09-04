@@ -4,8 +4,6 @@ editor: source
 toc: false
 ---
 
-# Research
-
 ### [Elucidating Diversity Dynamics in Marine Tropical Hotspots](https://github.com/UKRI185) 
 
 ::: {.grid}

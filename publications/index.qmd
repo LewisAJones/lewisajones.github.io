@@ -5,8 +5,6 @@ toc: false
 link-external-icon: false
 ---
 
-# Publications
-
 ## **Peer-reviewed publications**
 
 1. Christopher D. Dean, Alfio A. Chiarenza, Jeffrey W. Doser, Alexander Farnsworth, **Lewis A. Jones**, Sin&eacute;ad J. Lyster, Charlotte L. Outhwaite, Paul J. Valdes, Richard J. Butler, and Philip D. Mannion (2025). The structure of the end-Cretaceous dinosaur fossil record in North America. *Current Biology* 35(9), 1973&ndash;1988. DOI: [10.1016/j.cub.2025.03.025](https://doi.org/10.1016/j.cub.2025.03.025).
