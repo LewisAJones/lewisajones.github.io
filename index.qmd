@@ -2,13 +2,14 @@
 pagetitle: Home
 title: Lewis A. Jones
 subtitle: 
-  <large> <strong> Palaeobiologist & R Enthusiast</strong> </large> <br> 
+  <large> Palaeobiologist & R Enthusiast </large> <br> <br>
   <small> NERC Independent Research Fellow <br>
-  Department of Earth Sciences, Univeristy College London </small>
+  Department of Earth Sciences, Univeristy College London <br> <br>
+  Macroecology & Biodiversity \| Corals & Reef Ecosystems \| Palaeoclimate \| Fossil Record Bias \| R </small> <br>
 image: /images/profile.jpeg
 about:
     id: hero-heading
-    template: solana
+    template: jolla
     links:
       - text: "{{< iconify fa6-brands:bluesky >}}"
         href: "https://bsky.app/profile/lewisajones.bsky.social"
@@ -22,29 +23,11 @@ toc: false
 editor: source
 ---
 
-<body class="bg-img">
-
-</body>
-
 ::: {#hero-heading}
 :::
-
-::: {.text-col2}
-
-**Macroecology & Biodiversity \| Corals & Reef Ecosystems \| Palaeoclimate \| Fossil Record Bias \| R**
-
-:::
-
-:::: {.grid .transparent-box}
-
-::: g-col-12
 
 I am a Palaeobiologist examining the macroecological and macroevolutionary history of reef-building organisms through the integration of interdisciplinary tools and diverse sources of information, such as ecological modelling, Earth System modelling, and fossil and extant occurrence datasets. An additional theme of my research is evaluating the influence of data incompleteness on our perceptions of the geological past, such as palaeoclimatic and biodiversity trends. I also work on developing open-source software tools and resources for the palaeobiological community with the aim of improving research reproducibility in the field. 
 
 I am currently (2024--2029) a NERC Independent Research Fellow in the Department of Earth Sciences at [Univeristy College London (UCL)](https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-lewis-jones), where I am focusing on reconstructing the evolutionary history of Cenozoic marine biodiversity hotspots and testing their long-term drivers.
 
 If you are interested in joining me at UCL, [get in touch!](mailto:lewis.jones@ucl.ac.uk) There are opportunities for undergraduates, postgraduates, and postdoctoral researchers within the Department. I am happy to support relevant applications to competitive funding opportunities (e.g. Marie Curie Postdoctoral Fellowships). If you are interested in doing a PhD, funded opportunities are available via the [TREEs DLA](https://www.trees-dla.ac.uk) either through route 1 (predefined) or route 2 projects (self-proposed).
-
-:::
-
-::::

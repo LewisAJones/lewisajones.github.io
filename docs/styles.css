@@ -29,7 +29,13 @@
   }
 
 h1.title {
-  color: white; /* Replace with your desired color */
+  color: black; /* Replace with your desired color */
+  text-align: center;
+}
+
+.subtitle.lead {
+  color: black; /* Replace with your desired color */
+  text-align: center;
 }
 
 .center {
@@ -37,6 +43,7 @@ h1.title {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+  text-align: center;
 }
 
 .right {
