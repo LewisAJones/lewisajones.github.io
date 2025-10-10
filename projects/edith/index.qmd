@@ -42,20 +42,7 @@ This project will provide a deeper understanding of the evolutionary dynamics an
 
 ### News
 
-- **July 2025**: Presented a poster at the Crossing the Palaeontological-Ecological Gap meeting in Zürich, Switzerland (27^th^ July--1^st^ August 2025) entitled "Elucidating Diversity Dynamics in Marine Tropical Hotspots: Caribbean". This poster introduced the *EDiTH* project and initial results based on data from the Caribbean.
+- **July 2025**: Presented a poster at the Crossing the Palaeontological-Ecological Gap meeting in Zürich, Switzerland (27^th^ July--1^st^ August 2025) entitled "Elucidating Diversity Dynamics in Marine Tropical Hotspots: Caribbean". This **<a href="CPEG2025/poster.pdf" target="_blank">poster</a>** introduced the *EDiTH* project and initial results based on data from the Caribbean.
 
-::: {.grid}
+![Photograph during the poster session with co-author Dr Nadia Santodomingo.](CPEG2025/presentation.jpg)  
 
-::: {.g-col-8}
-
-![Photograph during the poster session with co-author Dr Nadia Santodomingo.](CPEG2025/presentation.jpg)
-
-:::
-
-::: {.g-col-4}
-
-![Poster introducing the EDiTH project and some initial results at the Crossing the Palaeontological-Ecological Gap conference in Zürich, Switzerland (27^th^ July--1^st^ August 2025). **<a href="CPEG2025/poster.pdf" target="_blank">High-resolution version</a>**.](CPEG2025/poster.png)
-
-:::
-
-:::

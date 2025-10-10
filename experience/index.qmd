@@ -4,8 +4,6 @@ toc: false
 link-external-icon: false
 ---
 
-<a href="LewisJonesCV.pdf" target="_blank">💾</a>
-
 ```{r, include=FALSE}
 text <- readLines("https://raw.githubusercontent.com/LewisAJones/cv-markdown/refs/heads/main/README.md")
 text <- text[4:length(text)]
