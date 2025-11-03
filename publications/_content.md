@@ -1,4 +1,4 @@
-# **Peer-reviewed publications**
+## **Peer-reviewed publications**
 
 1. **Lewis A. Jones**, Christopher D. Dean, Bethany J. Allen, Harriet B. Drage, Joseph T. Flannery-Sutherland, William Gearty, Alfio A. Chiarenza, Erin M. Dillon, Bruna M. Farina, and Pedro L. Godoy (2025). Ten simple rules to follow when cleaning occurrence data in palaeobiology. *Palaeontology* 68(5), e70028. DOI: [10.1111/pala.70028](https://doi.org/10.1111/pala.70028).
 
@@ -30,7 +30,7 @@
 
 15.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction. *Nature Communications* 10 (1091), 1&ndash;14. DOI:[10.1038/s41467-019-08997-2](https://doi.org/10.1038/s41467-019-08997-2).
 
-# **In-press and submitted manuscripts**
+## **In-press and submitted manuscripts**
 
 1. **Lewis A. Jones**, Danijela Dimitrijevi&cacute;, Markus Aretz, Francesca R. Bosellini, Juan C. Braga, Clara Diaz, Elizabeth Dowding, Kenneth Johnson, Wolfgang Kiessling, Bernard Lathuili&egrave;re, Anna Merkel, Kyle Morgan, Michele Morsilli, John M. Pandolfi, Miko&#322;aj K. Zapalski, and Nadia Santodomingo (In review). The potential of mesophotic environments to provide refugia for coral communities during times of crises. *Nature Communications*.
 
@@ -40,13 +40,13 @@
 
 4. Miranta Kouvari, Kateryn Pino, **Lewis A. Jones**, Juan Carrillo, Grace Varnham, Alexander Farnsworth, Anjali Goswami, and Philip Mannion (In review). The impact of Andean uplift and climate on eutherian mammal diversification and the emergence of the present-day latitudinal biodiversity gradient in South America. *Current Biology*.
 
-# **Theses**
+## **Theses**
 
 1.  **Lewis A. Jones** (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. Supervisors: Prof. Philip D. Mannion and Prof. Peter A. Allison. DOI:[10.25560/100239](https://spiral.imperial.ac.uk/handle/10044/1/100239).
 
 2.  **Lewis A. Jones** (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master Thesis. Supervisor: Prof. David Bond.
 
-# **Other works**
+## **Other works**
 
 1.  **Lewis A. Jones**, Christopher D. Dean, and Harriet B. Drage (2025). [Introducing the Palaeoverse](https://www.palass.org/publications/newsletter/archive/118/newsletter-no-118). *The Palaeontological Association Newsletter* 118.
 
