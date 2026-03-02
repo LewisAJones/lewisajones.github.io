@@ -133,6 +133,14 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ## Academic awards and grants
 
+**Geared for Success: Enhancing Fieldwork Equity in Earth Science Education** (2026)  
+Take Bold Action for Inclusion, Faculty of Mathematical & Physical Sciences, University College London, UK  
+Role: applicant, value: 2400 GBP (+ 2400 GBP match funding from the Department of Earth Sciences)  
+
+**Converting Users to Contributors: Enabling Sustainable Maintenance and Development of Palaeoverse** (2025)  
+Research Software Maintenance Fund, Software Sustainability Institute, UK  
+Role: applicant, value: 634,129 GBP
+
 **Open Science and Scholarship Awards, University College London**  
 Runner-up award for 'Enhancing open science and reproducibility capacity in the academic community'  
 
@@ -390,6 +398,13 @@ Woodward Buildings, Imperial College London, London, UK
 
 ## Professional appointments, service, and outreach
 
+**IFCRS 4<sup>th</sup> Early Career Researcher Symposium** (2025)  
+International Fossil Coral and Reef Society, Online  
+Co-organised and ran an early career researcher meeting on fossil corals and reefs
+
+**Early Career Researcher Forum, Faculty of Mathematical & Physical Sciences** (2025&ndash;Current)  
+Early Career Researcher representative for the Department of Earth Sciences
+
 **Generation Hope, Natural History Museum, London, UK** (2025)  
 Outreach science stall on coral resilience
 
@@ -421,7 +436,7 @@ Council member of the International Fossil Coral and Reef Society (IFCRS)
 International Fossil Coral and Reef Society, Online  
 Co-organised and ran a lecture series on fossil corals and reefs
 
-**IFCRS Early Career Researcher Symposium** (2021)  
+**IFCRS 1<sup>st</sup> Early Career Researcher Symposium** (2021)  
 International Fossil Coral and Reef Society, Online  
 Co-organised and ran an early career researcher meeting on fossil corals and reefs
 
@@ -444,6 +459,9 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 
 **Research proposals**  
 Daphne Jackson Fellowship (1)
+
+**PhD Theses**  
+External examiner: Charlotte Clay, University of Leeds (2025)
 
 ## Skills
 

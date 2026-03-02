@@ -24,6 +24,9 @@ website:
           - text: "EDiTH (UKRI185)"
             icon: "graph-up"
             href: projects/edith/index.qmd
+          - text: "Palaeoverse (AH/Z000114/1)"
+            icon: "code-square"
+            href: projects/palaeoverse/index.qmd
       - text: "CV"
         href: experience/index.qmd
       - text: "Publications"
