@@ -9,7 +9,7 @@
 
 Palaeobiologist examining the macroecological and macroevolutionary history of reef-building organisms, and marine invertebrate biodiversity more broadly, through the integration of interdisciplinary tools and diverse sources of information, such as ecological modelling, Earth System modelling, and fossil and extant occurrence datasets. An additional significant theme of research has been evaluating the influence of data incompleteness on perceptions of the geological past, such as biodiversity trends, and the development of software tools for the research community. Current research focus is investigating the drivers of marine biodiversity hotspots throughout the Cenozoic and reconstructing their evolutionary history.
 
-**Macroecology and biodiversity** | **Fossil record bias** | **Corals and reef ecosystems** | **Palaeoclimate** | **R programming**
+**Macroecology and biodiversity** | **Corals and reef ecosystems** | **Fossil record bias** | **Palaeoclimate** | **R programming**
 
 ## Education
 
@@ -61,35 +61,37 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ### **Peer-reviewed publications**
 
-1. **Lewis A. Jones**, Christopher D. Dean, Bethany J. Allen, Harriet B. Drage, Joseph T. Flannery-Sutherland, William Gearty, Alfio A. Chiarenza, Erin M. Dillon, Bruna M. Farina, and Pedro L. Godoy (2025). Ten simple rules to follow when cleaning occurrence data in palaeobiology. *Palaeontology* 68(5), e70028. DOI: [10.1111/pala.70028](https://doi.org/10.1111/pala.70028).
+1. Natalie Cooper, **Lewis A. Jones**, and BES Data and Code Hackathon Group (2026). Data- and code-archiving in the British Ecological Society journals: Present status and recommendations for future improvements. *Methods in Ecology and Evolution*. DOI: [10.1111/2041-210x.70338](https://doi.org/10.1111/2041-210x.70338).
 
-2. Christopher D. Dean, Alfio A. Chiarenza, Jeffrey W. Doser, Alexander Farnsworth, **Lewis A. Jones**, Sin&#233;ad J. Lyster, Charlotte L. Outhwaite, Paul J. Valdes, Richard J. Butler, and Philip D. Mannion (2025). The structure of the end-Cretaceous dinosaur fossil record in North America. *Current Biology* 35 (9), 1973&ndash;1988 . DOI: [10.1016/j.cub.2025.03.025](https://doi.org/10.1016/j.cub.2025.03.025).
+2. **Lewis A. Jones**, Christopher D. Dean, Bethany J. Allen, Harriet B. Drage, Joseph T. Flannery-Sutherland, William Gearty, Alfio A. Chiarenza, Erin M. Dillon, Bruna M. Farina, and Pedro L. Godoy (2025). Ten simple rules to follow when cleaning occurrence data in palaeobiology. *Palaeontology* 68: e70028. DOI: [10.1111/pala.70028](https://doi.org/10.1111/pala.70028).
 
-3. Theres Koch, Angelina Ivki&cacute;, **Lewis A. Jones**, Victor S. Scharnhorst, Constanze M. Stix, Antonia Auer, Theda Sch&ouml;chtner, G&ouml;zde &Ouml;zer, Simon Steinwender, Joseph W. Daurella, and Martin Zuschin (2025). Quantifying diversity and growth form distribution of scleractinian corals, in Mangrove Bay, El Qoseir, Egypt. *Biodiversity Data Journal* 13, e134282. DOI: [10.3897/BDJ.13.e134282](https://doi.org/10.3897/BDJ.13.e134282).
+3. Christopher D. Dean, Alfio A. Chiarenza, Jeffrey W. Doser, Alexander Farnsworth, **Lewis A. Jones**, Sin&#233;ad J. Lyster, Charlotte L. Outhwaite, Paul J. Valdes, Richard J. Butler, and Philip D. Mannion (2025). The structure of the end-Cretaceous dinosaur fossil record in North America. *Current Biology* 35 (9), 1973&ndash;1988 . DOI: [10.1016/j.cub.2025.03.025](https://doi.org/10.1016/j.cub.2025.03.025).
 
-4. **Lewis A. Jones**, Christopher D. Dean, William Gearty, and Bethany J. Allen (2024). rmacrostrat: An R package for accessing and retrieving data from the Macrostrat geological database. *Geosphere* 20(6), 1456&ndash;1467. DOI: [10.1130/GES02815.1](https://doi.org/10.1130/GES02815.1).
+4. Theres Koch, Angelina Ivki&cacute;, **Lewis A. Jones**, Victor S. Scharnhorst, Constanze M. Stix, Antonia Auer, Theda Sch&ouml;chtner, G&ouml;zde &Ouml;zer, Simon Steinwender, Joseph W. Daurella, and Martin Zuschin (2025). Quantifying diversity and growth form distribution of scleractinian corals, in Mangrove Bay, El Qoseir, Egypt. *Biodiversity Data Journal* 13: e134282. DOI: [10.3897/BDJ.13.e134282](https://doi.org/10.3897/BDJ.13.e134282).
 
-5. **Lewis A. Jones** and Mathew Domeier (2024). A Phanerozoic gridded dataset for palaeogeographic reconstructions. *Scientific Data* 11 (710), 1&ndash;7. DOI: [10.1038/s41597-024-03468-w](https://doi.org/10.1038/s41597-024-03468-w).
+5. **Lewis A. Jones**, Christopher D. Dean, William Gearty, and Bethany J. Allen (2024). rmacrostrat: An R package for accessing and retrieving data from the Macrostrat geological database. *Geosphere* 20 (6), 1456&ndash;1467. DOI: [10.1130/GES02815.1](https://doi.org/10.1130/GES02815.1).
 
-6.	Alfio A. Chiarenza, Juan L. Cantalapiedra, **Lewis A. Jones**, Sara Gamboa, Sof&iacute;a Galv&aacute;n, Alexander Farnsworth, Paul J. Valdes, Graciela Sotelo, and Sara Varela (2024). Early Jurassic origin of avian endothermy and thermophysiological diversity in dinosaurs. *Current Biology* 34 (11), 2518&ndash;2527. DOI: [10.1016/j.cub.2024.04.051](https://doi.org/10.1016/j.cub.2024.04.051).
+6. **Lewis A. Jones** and Mathew Domeier (2024). A Phanerozoic gridded dataset for palaeogeographic reconstructions. *Scientific Data* 11 (710), 1&ndash;7. DOI: [10.1038/s41597-024-03468-w](https://doi.org/10.1038/s41597-024-03468-w).
 
-7.	Kilian Eichenseer and **Lewis A. Jones** (2024). Bayesian multi-proxy reconstruction of early Eocene latitudinal temperature gradients. *Climate of the Past* 20, 349&ndash;362. DOI: [10.5194/cp-20-349-2024](https://doi.org/10.5194/cp-20-349-2024).
+7.	Alfio A. Chiarenza, Juan L. Cantalapiedra, **Lewis A. Jones**, Sara Gamboa, Sof&iacute;a Galv&aacute;n, Alexander Farnsworth, Paul J. Valdes, Graciela Sotelo, and Sara Varela (2024). Early Jurassic origin of avian endothermy and thermophysiological diversity in dinosaurs. *Current Biology* 34 (11), 2518&ndash;2527. DOI: [10.1016/j.cub.2024.04.051](https://doi.org/10.1016/j.cub.2024.04.051).
 
-8.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies. *Methods in Ecology and Evolution* 14 (12), 3007&ndash;3019. DOI:[10.1111/2041-210X.14204](https://doi.org/10.1111/2041-210X.14204).
+8.	Kilian Eichenseer and **Lewis A. Jones** (2024). Bayesian multi-proxy reconstruction of early Eocene latitudinal temperature gradients. *Climate of the Past* 20, 349&ndash;362. DOI: [10.5194/cp-20-349-2024](https://doi.org/10.5194/cp-20-349-2024).
 
-9.  William Gearty and **Lewis A. Jones** (2023). rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes. *Methods in Ecology and Evolution* 14 (11), 2700&ndash;2708. DOI:[10.1111/2041-210X.14221](https://doi.org/10.1111/2041-210X.14221).
+9.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies. *Methods in Ecology and Evolution* 14 (12), 3007&ndash;3019. DOI:[10.1111/2041-210X.14204](https://doi.org/10.1111/2041-210X.14204).
 
-10.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sof&iacute;a Galv&aacute;n, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). palaeoverse: A community-driven R package to support palaeobiological analysis. *Methods in Ecology and Evolution* 14 (9), 2205&ndash;2215. DOI:[10.1111/2041-210X.14099](https://doi.org/10.1111/2041-210X.14099).
+10.  William Gearty and **Lewis A. Jones** (2023). rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes. *Methods in Ecology and Evolution* 14 (11), 2700&ndash;2708. DOI:[10.1111/2041-210X.14221](https://doi.org/10.1111/2041-210X.14221).
 
-11.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, and Daniel J. Lunt (2022). Climatic and tectonic drivers shaped the tropical distribution of coral reefs. *Nature Communications* 13 (3120), 1&ndash;10. DOI:[10.1038/s41467-022-30793-8](https://doi.org/10.1038/s41467-022-30793-8).
+11.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sof&iacute;a Galv&aacute;n, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). palaeoverse: A community-driven R package to support palaeobiological analysis. *Methods in Ecology and Evolution* 14 (9), 2205&ndash;2215. DOI:[10.1111/2041-210X.14099](https://doi.org/10.1111/2041-210X.14099).
 
-12.  **Lewis A. Jones** and Kilian Eichenseer (2022). Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology* 50 (2), 238&ndash;242. DOI:[10.1130/G49132.1](https://doi.org/10.1130/G49132.1).
+12.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, and Daniel J. Lunt (2022). Climatic and tectonic drivers shaped the tropical distribution of coral reefs. *Nature Communications* 13 (3120), 1&ndash;10. DOI:[10.1038/s41467-022-30793-8](https://doi.org/10.1038/s41467-022-30793-8).
 
-13.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, and Peter A. Allison (2021). Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. *Proceedings of the Royal Society B* 288 (1945), 20202762. DOI:[10.1098/rspb.2020.2762](https://doi.org/10.1098/rspb.2020.2762).
+13.  **Lewis A. Jones** and Kilian Eichenseer (2022). Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology* 50 (2), 238&ndash;242. DOI:[10.1130/G49132.1](https://doi.org/10.1130/G49132.1).
 
-14.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change. *Royal Society Open Science* 6 (4), 182111. DOI:[10.1098/rsos.182111](https://doi.org/10.1098/rsos.182111).
+14.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, and Peter A. Allison (2021). Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. *Proceedings of the Royal Society B* 288 (1945), 20202762. DOI:[10.1098/rspb.2020.2762](https://doi.org/10.1098/rspb.2020.2762).
 
-15.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction. *Nature Communications* 10 (1091), 1&ndash;14. DOI:[10.1038/s41467-019-08997-2](https://doi.org/10.1038/s41467-019-08997-2).
+15.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change. *Royal Society Open Science* 6 (4), 182111. DOI:[10.1098/rsos.182111](https://doi.org/10.1098/rsos.182111).
+
+16.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction. *Nature Communications* 10 (1091), 1&ndash;14. DOI:[10.1038/s41467-019-08997-2](https://doi.org/10.1038/s41467-019-08997-2).
 
 ### **In-press and submitted manuscripts**
 
@@ -142,7 +144,7 @@ Research Software Maintenance Fund, Software Sustainability Institute, UK
 Role: applicant, value: 634,129 GBP
 
 **Open Science and Scholarship Awards, University College London**  
-Runner-up award for 'Enhancing open science and reproducibility capacity in the academic community'  
+Runner-up award for enhancing open science and reproducibility capacity in the academic community
 
 **Benthic marine ecosystem dynamics through time and space (BENEDICTS)** (2025)  
 Proyectos de Generaci&oacute;n de Conocimiento (Knowledge Generation Projects), Spain  
@@ -205,7 +207,7 @@ Value: 50 GBP
 Talk: Open Science, Software, and Coding
 
 **Centre for Biodiversity and Environment Research, University College London, London, UK** (2024)  
-Talk: Mind the Gap: Reconstructing marine biodiversity through time and space
+Talk: Mind the gap: reconstructing marine biodiversity through time and space
 
 **Computational Palaeobiology Mini-Symposium** (2024)  
 Department of Biosystems Science and Engineering, ETH Z&uuml;rich, Basel, Switzerland  
@@ -213,7 +215,7 @@ Talk: Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobi
 
 **Methods in Ecology and Evolution: Live!** (2023)  
 British Ecological Society, Online workshop  
-Talk: Introduction to rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes
+Talk: Introduction to rphylopic: an R package for fetching, transforming, and visualising PhyloPic silhouettes
 
 **Department of Palaeontology, University of Vienna, Austria** (2023)  
 Talk: Into the palaeoverse: a community-driven R package
@@ -226,16 +228,21 @@ Talk: Ecological modelling in Geosciences
 
 ## Selected conference presentations
 
+**16<sup>th</sup> International Coral Reef Symposium** (Auckland, New Zealand, 2026)  
+Talk: The EDiTH Project: Elucidating diversity dynamics in Cenozoic marine tropical hotspots  
+Poster: Morphological traits as proxies of fossil coral photosymbiotic state  
+Poster: Shining a Light on Dark Data: Towards a Sustainable Community Repository for Historical Reef Imagery
+
 **4<sup>th</sup> Crossing the Palaeontological-Ecological Gap Meeting** (Z&uuml;rich, Switzerland, 2025)  
 Poster: Elucidating Diversity Dynamics in Marine Tropical Hotspots: Caribbean
 
 **68<sup>th</sup> Annual Meeting of the Palaeontological Association** (Erlangen, Germany, 2024)  
-Poster: rmacrostrat: An R package for retrieving data from the Macrostrat geological database
+Poster: rmacrostrat: an R package for retrieving data from the Macrostrat geological database
 
 **12<sup>th</sup> North American Paleontological Convention** (Ann Arbor, Michigan, USA, 2024)  
 Talk: Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies  
-Poster: palaeoverse: A community-driven R package to support palaeobiological analyses  
-Poster: rmacrostrat: An R package for retrieving data from the Macrostrat geological database
+Poster: palaeoverse: a community-driven R package to support palaeobiological analyses  
+Poster: rmacrostrat: an R package for retrieving data from the Macrostrat geological database
 
 **14<sup>th</sup> International Fossil Coral and Reef Society symposium** (Ch&#281;ciny, Poland, 2023)  
 Talk: Inverse latitudinal diversity gradients in Last Interglacial coral reef communities
@@ -372,7 +379,7 @@ Department of Earth Sciences, University College London, UK
 4<sup>th</sup> Crossing the Palaeontological-Ecological Gap Meeting, Z&uuml;rich, Switzerland  
 Organised and ran a workshop on open data science skills
 
-**R for Paleobiologists: Getting Started with the palaeoverse R Package** (2024)  
+**R for Paleobiologists: getting started with the palaeoverse R Package** (2024)  
 12<sup>th</sup> North American Paleontological Convention, Ann Arbor, Michigan, USA  
 Organised and ran a workshop on using R in Palaeobiology
 
@@ -398,6 +405,9 @@ Woodward Buildings, Imperial College London, London, UK
 
 ## Professional appointments, service, and outreach
 
+**Lessons from the past: what do ancient reefs tell us about the future of coral reef ecosystems?** (Auckland, New Zealand, 2026)  
+Co-organised and ran a symposium at the 16<sup>th</sup> International Coral Reef Symposium
+
 **IFCRS 4<sup>th</sup> Early Career Researcher Symposium** (2025)  
 International Fossil Coral and Reef Society, Online  
 Co-organised and ran an early career researcher meeting on fossil corals and reefs
@@ -409,7 +419,7 @@ Early Career Researcher representative for the Department of Earth Sciences
 Outreach science stall on coral resilience
 
 **Scientific Associate, Natural History Museum, London, UK** (2025&ndash;Current)  
-Palaeontology, Department of Earth Sciences
+Palaeontology, Science Group
 
 **Handling Editor for *Open Palaeontology*** (2024&ndash;Current)  
 *Open Palaeontology* is a new international Diamond Open Access journal promoting open science in the field of palaeontology
@@ -455,7 +465,7 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 ## Peer-review experience
 
 **Publications**  
-*Big Earth Data Journal* (1), *Conservation Biology* (1), *Ecological Monographs* (1), *Global Ecology and Biogeography* (3), *Journal of Biogeography* (1), *Palaeontology* (2), *Paleobiology* (3), *Methods in Ecology and Evolution* (4), *Nature Communications* (1), *Science Advances* (1), *Scientific Reports* (1), *Trends in Ecology and Evolution* (1)  
+*Big Earth Data Journal* (1), *Conservation Biology* (1), *Ecological Monographs* (1), *Global Ecology and Biogeography* (3), *Journal of Biogeography* (1), *Palaeontology* (2), *Paleobiology* (3), *Methods in Ecology and Evolution* (4), *Nature Communications* (1), *Science Advances* (1), *Scientific Reports* (1), *Trends in Ecology and Evolution* (1)
 
 **Research proposals**  
 Daphne Jackson Fellowship (1)
