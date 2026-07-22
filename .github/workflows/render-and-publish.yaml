@@ -1,3 +1,5 @@
+name: Render and Publish Quarto Site
+
 on:
   workflow_dispatch:
   push:
@@ -31,10 +33,6 @@ jobs:
         run: install.packages("pak")
         shell: Rscript {0}
 
-      # Detect every package the site (including the synced modules) depends on,
-      # instead of hardcoding a list, so newly added modules using new packages
-      # work without editing this workflow. pak installs the system requirements
-      # (e.g. those mapgl needs: gdal/geos/proj/...) automatically on this runner.
       - name: Install R dependencies
         run: |
           deps <- pak::scan_deps(".")
