@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.lewisajones.com/software/index.html</loc>
-    <lastmod>2026-08-11T08:58:17.459Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.lewisajones.com/gallery/index.html</loc>
-    <lastmod>2026-08-11T08:58:17.281Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.lewisajones.com/research/index.html</loc>
-    <lastmod>2026-08-11T08:58:17.429Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.lewisajones.com/projects/palaeoverse/index.html</loc>
-    <lastmod>2026-08-11T08:58:17.422Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.lewisajones.com/publications/index.html</loc>
-    <lastmod>2026-08-11T08:58:17.428Z</lastmod>
+    <lastmod>2026-08-12T09:12:55.236Z</lastmod>
   </url>
   <url>
     <loc>https://www.lewisajones.com/projects/edith/index.html</loc>
-    <lastmod>2026-08-11T08:58:17.422Z</lastmod>
+    <lastmod>2026-08-12T09:12:55.229Z</lastmod>
   </url>
   <url>
-    <loc>https://www.lewisajones.com/posts/timefulness.html</loc>
-    <lastmod>2026-08-11T08:58:17.349Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.lewisajones.com/index.html</loc>
-    <lastmod>2026-08-11T08:58:17.348Z</lastmod>
+    <loc>https://www.lewisajones.com/research/index.html</loc>
+    <lastmod>2026-08-12T09:12:55.237Z</lastmod>
   </url>
   <url>
     <loc>https://www.lewisajones.com/experience/index.html</loc>
-    <lastmod>2026-08-11T08:58:17.223Z</lastmod>
+    <lastmod>2026-08-12T09:12:55.029Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.lewisajones.com/posts/timefulness.html</loc>
+    <lastmod>2026-08-12T09:12:55.157Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.lewisajones.com/gallery/index.html</loc>
+    <lastmod>2026-08-12T09:12:55.086Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.lewisajones.com/software/index.html</loc>
+    <lastmod>2026-08-12T09:12:55.273Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.lewisajones.com/index.html</loc>
+    <lastmod>2026-08-12T09:12:55.156Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.lewisajones.com/projects/palaeoverse/index.html</loc>
+    <lastmod>2026-08-12T09:12:55.229Z</lastmod>
   </url>
 </urlset>
