@@ -26,10 +26,6 @@ website:
           - text: "Palaeoverse (AH/Z000114/1)"
             icon: "code-square"
             href: projects/palaeoverse/index.qmd
-      - text: "CV"
-        href: experience/index.qmd
-      - text: "Publications"
-        href: publications/index.qmd
       - text: "Software"
         menu:
           - text: "palaeoverse"
@@ -44,31 +40,41 @@ website:
           - text: "sepkoski"
             icon: "graph-up"
             href: software/index.qmd#sepkoski
-      - text: "Gallery"
-        file: gallery/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "CV"
+        href: experience/index.qmd
+      - text: "{{< iconify fa6-brands:github >}}"
+        href: "https://github.com/LewisAJones"
+      - text: "{{< iconify clarity:email-solid >}}"
+        href: "mailto:lewis.jones@ucl.ac.uk"
+      - text: "{{< iconify fa6-brands:google-scholar >}}"
+        href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
+      - text: "{{< iconify akar-icons:linkedin-box-fill >}}"
+        href: "https://www.linkedin.com/in/lewisajones/"
+      - text: "{{< iconify akar-icons:instagram-fill >}}"
+        href: "https://www.instagram.com/lewisajones/"
       - text: "{{< iconify fa6-brands:bluesky >}}"
         href: "https://bsky.app/profile/lewisajones.bsky.social"
-      - icon: github
-        href: "https://github.com/LewisAJones"
-      - icon: envelope-fill
-        href: "mailto:Lewis.Jones@ucl.ac.uk"
-      - icon: mortarboard-fill
-        href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
   page-footer: 
     background: "#1A213A"
     left: |
-      © Copyright 2025 Lewis A. Jones
+      © Copyright 2026, Lewis A. Jones
     center: |
       [![](/images/palaeoverse.png){fig-alt="Palaeoverse" height=25px}](https://palaeoverse.org)
     right: 
+      - text: "{{< iconify fa6-brands:github >}}"
+        href: "https://github.com/LewisAJones"
+      - text: "{{< iconify clarity:email-solid >}}"
+        href: "mailto:lewis.jones@ucl.ac.uk"
+      - text: "{{< iconify fa6-brands:google-scholar >}}"
+        href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
+      - text: "{{< iconify akar-icons:linkedin-box-fill >}}"
+        href: "https://www.linkedin.com/in/lewisajones/"
+      - text: "{{< iconify akar-icons:instagram-fill >}}"
+        href: "https://www.instagram.com/lewisajones/"
       - text: "{{< iconify fa6-brands:bluesky >}}"
         href: "https://bsky.app/profile/lewisajones.bsky.social"
-      - icon: github
-        href: "https://github.com/LewisAJones"
-      - icon: envelope-fill
-        href: "mailto:Lewis.Jones@ucl.ac.uk"
-      - icon: mortarboard-fill
-        href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
 format:
   html:
     page-layout: full

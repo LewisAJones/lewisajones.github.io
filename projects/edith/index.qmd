@@ -40,9 +40,3 @@ This project will provide a deeper understanding of the evolutionary dynamics an
 - [Zenodo data repository](https://zenodo.org/communities/edith)
 - [GitHub repository](https://github.com/UKRI185)
 
-### News
-
-- **July 2025**: Presented a poster at the Crossing the Palaeontological-Ecological Gap meeting in Zürich, Switzerland (27^th^ July--1^st^ August 2025) entitled "Elucidating Diversity Dynamics in Marine Tropical Hotspots: Caribbean". This **<a href="CPEG2025/poster.pdf" target="_blank">poster</a>** introduced the *EDiTH* project and initial results based on data from the Caribbean.
-
-![Photograph during the poster session with co-author Dr Nadia Santodomingo.](CPEG2025/presentation.jpg)  
-

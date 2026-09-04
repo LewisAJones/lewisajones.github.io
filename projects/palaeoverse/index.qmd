@@ -9,13 +9,13 @@ toc: false
 ### Metadata
 
 **Title:** Converting Users to Contributors: Enabling Sustainable Maintenance and Development of Palaeoverse 
-**Funding Agency:** UKRI via the Software Sustainability Institute (Research Software Maintenance Fund awarded to [Lewis A. Jones](https://lewisajones.com))  
+**Funding Agency:** UKRI via Institute of Research Software (Research Software Maintenance Fund awarded to [Lewis A. Jones](https://lewisajones.com))  
 **Grant Reference:** AH/Z000114/1  
 **Period:** 2026–2028  
 **Lead:** [Lewis A. Jones](https://lewisajones.com), University College London, UK  
 **Co-Leads:** Dr Bethany J. Allen, GFZ Helmholtz Centre for Geosciences, Germany **|** Dr Christopher D. Dean, Department of Energy Security and Net Zero, UK **|** Dr Harriet B. Drage, University of Lausanne, Switzerland **|** Dr Erin M. Dillon, Smithsonian Tropical Research Institute, Panama **|** Dr Joseph T. Flannery-Sutherland, University of Birmingham, UK **|** Dr William Gearty, Syracuse University, USA **|** Dr Pedro L. Godoy, University of São Paulo, Brazil
 
-![](logo.png){width="25%"} ![](ssi.png){width="25%"} ![](ukri.png){width="25%"}
+![](logo.png){width="25%"} ![](irs.png){width="25%"} ![](ukri.png){width="25%"}
 
 
 ### Summary

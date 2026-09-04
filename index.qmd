@@ -1,34 +1,30 @@
 ---
 pagetitle: Home
 title: Lewis A. Jones
-subtitle: Palaeobiologist & R Enthusiast
+subtitle: Palaeobiologist, Open Scientist, Research Software Developer
 image: /images/profile.jpeg
 about:
     id: hero-heading
     template: jolla
     links:
-      - text: "{{< iconify fa6-brands:bluesky >}}"
-        href: "https://bsky.app/profile/lewisajones.bsky.social"
       - text: "{{< iconify fa6-brands:github >}}"
         href: "https://github.com/LewisAJones"
-      - text: "{{< iconify cib:gmail >}}"
+      - text: "{{< iconify clarity:email-solid >}}"
         href: "mailto:lewis.jones@ucl.ac.uk"
       - text: "{{< iconify fa6-brands:google-scholar >}}"
         href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
+      - text: "{{< iconify akar-icons:linkedin-box-fill >}}"
+        href: "https://www.linkedin.com/in/lewisajones/"
+      - text: "{{< iconify akar-icons:instagram-fill >}}"
+        href: "https://www.instagram.com/lewisajones/"
+      - text: "{{< iconify fa6-brands:bluesky >}}"
+        href: "https://bsky.app/profile/lewisajones.bsky.social"
 toc: false
 editor: source
 ---
 
 ::: {#hero-heading .center}
 
-Department of Earth Sciences, Univeristy College London
-
-Macroecology & Biodiversity \| Corals & Reef Ecosystems \| Palaeoclimate \| Fossil Record Bias \| R
+Hi, I'm Lewis — a Senior Research Fellow at [UCL Earth Sciences](https://www.ucl.ac.uk/mathematical-physical-sciences/earth-sciences). I study how marine life, especially corals and reef ecosystems, has changed over millions of years and why. I'm especially interested in understanding how biodiversity hotspots evolved throughout the Cenozoic (the last 66 million years) and how gaps in data can distort our picture of past and present-day biodiversity. I'm also passionate about Open Science and coding, and through [Palaeoverse](https://palaeoverse.org), I develop open-source software tools and resources for palaeontologists with the aim of improving research accessibility and reproducibility. 
 
 :::
-
-I am a Palaeobiologist examining the macroecological and macroevolutionary history of reef-building organisms through the integration of interdisciplinary tools and diverse sources of information, such as ecological modelling, Earth System modelling, and fossil and extant occurrence datasets. An additional theme of my research is evaluating the influence of data incompleteness on our perceptions of the geological past, such as palaeoclimatic and biodiversity trends. I also work on developing open-source software tools and resources for the palaeobiological community with the aim of improving research reproducibility in the field. 
-
-I am currently (2024--2029) a NERC Independent Research Fellow in the Department of Earth Sciences at [Univeristy College London (UCL)](https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-lewis-jones), where I am focusing on reconstructing the evolutionary history of Cenozoic marine biodiversity hotspots and testing their long-term drivers.
-
-If you are interested in joining me at UCL, [get in touch!](mailto:lewis.jones@ucl.ac.uk) There are opportunities for undergraduates, postgraduates, and postdoctoral researchers within the Department. I am happy to support relevant applications to competitive funding opportunities (e.g. Marie Curie Postdoctoral Fellowships). If you are interested in doing a PhD, funded opportunities are available via the [TREEs DLA](https://www.trees-dla.ac.uk) either through route 1 (predefined) or route 2 projects (self-proposed).

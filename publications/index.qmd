@@ -11,10 +11,11 @@ start <- grep(pattern = "Peer-reviewed publications", x = text)
 end <- grep(pattern = "Meeting report: 13<sup>th</sup> International Symposium of Fossil Cnidaria and Porifera", x = text)
 text <- text[start:end]
 text <- gsub(pattern = "###", replacement = "##", x = text)
-write(x = text, file = "_content.md")
 ```
 
-{{< include _content.md >}}
+```{r, echo=FALSE, results='asis'}
+cat(text, sep = "\n")
+```
 
 
 

@@ -7,9 +7,14 @@ link-external-icon: false
 ```{r, include=FALSE}
 text <- readLines("https://raw.githubusercontent.com/LewisAJones/cv-markdown/refs/heads/main/README.md")
 text <- text[4:length(text)]
-write(x = text, file = "_content.md")
-download.file(url = "https://raw.githubusercontent.com/LewisAJones/cv-markdown/main/cv.pdf",
-              destfile = "LewisJonesCV.pdf")
+
+download.file(
+  url = "https://raw.githubusercontent.com/LewisAJones/cv-markdown/main/cv.pdf",
+  destfile = "LewisJonesCV.pdf",
+  mode = "wb"
+)
 ```
 
-{{< include _content.md >}}
+```{r, echo=FALSE, results='asis'}
+cat(text, sep = "\n")
+```
